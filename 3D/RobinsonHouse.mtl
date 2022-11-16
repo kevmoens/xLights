@@ -1,0 +1,63 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Formica_Speckled_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.411765 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Formica_Speckled_Grey.jpg
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Cladding_Stucco_White.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Stone_Sandstone_Ashlar_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.698039 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Stone_Sandstone_Ashlar_Light.jpg
+
+newmtl Cladding_Siding_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.866667 0.823529 0.717647
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Cladding_Siding_Tan.jpg
+
+newmtl Formica_Beige
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.733333 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Formica_Beige.jpg
+
+newmtl Brick_Antique_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Brick_Antique_01.jpg
+
+newmtl Roofing_Shingles_Asphalt
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.407843 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Roofing_Shingles_Asphalt.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Polished_Concrete_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.796078
+Ks 0.330000 0.330000 0.330000
+map_Kd RobinsonHouse/Polished_Concrete_New.jpg
+

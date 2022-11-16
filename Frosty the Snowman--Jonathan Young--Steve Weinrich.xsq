@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2022.16.1</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>F:\2020\ShowFolder3D/_lost/FROSTY THE SNOWMAN - Pop Punk Christmas Cover (Jonathan Young feat. Travis Carte).mp3</mediaFile>
+    <sequenceDuration>99.098</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Rainbow,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=10.4</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Rainbow,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=3.9</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Rainbow,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=8</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Rainbow,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=8,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=-62,E_SLIDER_PinwheelYC=-100,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Speed=7,E_SLIDER_Pinwheel_Thickness=15,E_SLIDER_Pinwheel_Twist=0</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=84,E_SLIDER_Twinkle_Steps=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=127,E_SLIDER_Shockwave_End_Width=0,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=31</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=24,E_SLIDER_Meteors_Swirl_Intensity=0</Effect>
+    <Effect>E_SLIDER_Life_Count=50,E_SLIDER_Life_Seed=0,E_SLIDER_Life_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Thickness=18,E_SLIDER_Pinwheel_Twist=360,E_VALUECURVE_Pinwheel_ArmSize=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_ArmSize|Type=Ramp|Min=0.00|Max=400.00|P1=100.00|RV=TRUE|,E_VALUECURVE_Pinwheel_Speed=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Speed|Type=Ramp|Min=0.00|Max=50.00|P2=18.00|RV=TRUE|</Effect>
+    <Effect>E_TEXTCTRL_ColorWash_Cycles=3.6</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=300,E_SLIDER_Spirals_Thickness=5,E_TEXTCTRL_Spirals_Movement=7.1,T_CHOICE_Out_Transition_Type=Wipe,T_SLIDER_Out_Transition_Adjust=50,T_TEXTCTRL_Fadeout=9.25</Effect>
+    <Effect>T_CHOICE_In_Transition_Type=Wipe,T_CHOICE_Out_Transition_Type=Wipe,T_SLIDER_In_Transition_Adjust=100,T_SLIDER_Out_Transition_Adjust=0,T_TEXTCTRL_Fadein=.45,T_TEXTCTRL_Fadeout=.45</Effect>
+    <Effect>E_CHECKBOX_Strobe_Music=1,E_SLIDER_Number_Strobes=282,E_SLIDER_Strobe_Duration=2,E_SLIDER_Strobe_Type=1,T_TEXTCTRL_Fadein=1</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=300,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=1.0</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=5,E_SLIDER_Spirals_Rotation=-300,E_SLIDER_Spirals_Thickness=5,E_TEXTCTRL_Spirals_Movement=-4.0,T_CHOICE_Out_Transition_Type=Wipe,T_SLIDER_Out_Transition_Adjust=50,T_TEXTCTRL_Fadeout=9.25</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=57,E_SLIDER_PinwheelYC=-92,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Speed=11,E_SLIDER_Pinwheel_Thickness=15,E_SLIDER_Pinwheel_Twist=0</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,T_CHOICE_In_Transition_Type=Wipe,T_SLIDER_In_Transition_Adjust=100,T_TEXTCTRL_Fadein=9.5</Effect>
+    <Effect>E_CHECKBOX_PRE_2017_7=0,E_CHECKBOX_Shimmer_Use_All_Colors=0,E_SLIDER_Shimmer_Duty_Factor=26,E_TEXTCTRL_Shimmer_Cycles=20.5</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Speed=15,E_SLIDER_Pinwheel_Thickness=37,E_SLIDER_Pinwheel_Twist=0</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=6,E_SLIDER_Pinwheel_Speed=15,E_SLIDER_Pinwheel_Thickness=37,E_SLIDER_Pinwheel_Twist=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=3,E_SLIDER_Twinkle_Steps=30,T_SLIDER_EffectLayerMix=2</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=15.8,E_VALUECURVE_Spirals_Rotation=Active=TRUE|Id=ID_VALUECURVE_Spirals_Rotation|Type=Ramp|Min=-300.00|Max=300.00|P1=74.00|P2=-74.00|RV=TRUE|</Effect>
+    <Effect>E_CHOICE_Falling=Falling &amp;amp; Accumulating,E_SLIDER_Snowflakes_Count=31,E_SLIDER_Snowflakes_Speed=50,E_SLIDER_Snowflakes_Type=4</Effect>
+    <Effect>E_CHECKBOX_VUMeter_LogarithmicX=1,E_CHECKBOX_VUMeter_SlowDownFalls=1,E_CHOICE_VUMeter_Type=Spectrogram,E_SLIDER_VUMeter_Bars=6,E_SLIDER_VUMeter_EndNote=84,E_SLIDER_VUMeter_StartNote=36,E_SLIDER_VUMeter_XOffset=0,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=-115,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=10,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=115,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=-10,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="992750636" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="Lyrics" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Random" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Bars" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Horizontals" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix3" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixes" visible="1"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof and uprights" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="end of house" visible="1"/>
+    <Element collapsed="0" type="model" name="gutter 1" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Lyrics">
+      <EffectLayer>
+        <Effect label="Frosty the snowman was a jolly happy soul" startTime="0" endTime="5200"></Effect>
+        <Effect label="With a corn cob pipe and a button nose" startTime="5200" endTime="7875"></Effect>
+        <Effect label="And two eyes made out of coal" startTime="7875" endTime="10100"></Effect>
+        <Effect label="Go" startTime="10400" endTime="10750"></Effect>
+        <Effect label="Frosty the snowman' is a fairy tale they say" startTime="10750" endTime="15350"></Effect>
+        <Effect label="He was made of snow" startTime="15350" endTime="16750"></Effect>
+        <Effect label="But the children know how he came to life one day" startTime="16750" endTime="20675"></Effect>
+        <Effect label="There must have been some magic in" startTime="20675" endTime="23250"></Effect>
+        <Effect label="That ol' silk hat they found" startTime="23250" endTime="25675"></Effect>
+        <Effect label="For when they placed it on his head" startTime="25675" endTime="28450"></Effect>
+        <Effect label="He began to dance around, oh" startTime="28450" endTime="31225"></Effect>
+        <Effect label="Frosty the snowman was alive as he could be" startTime="31225" endTime="36025"></Effect>
+        <Effect label="And the children say, he could laugh and play" startTime="36025" endTime="38775"></Effect>
+        <Effect label="Just the same as you and me" startTime="38775" endTime="42425"></Effect>
+        <Effect label="Oh" startTime="42425" endTime="43975"></Effect>
+        <Effect label="Lets go" startTime="44550" endTime="45450"></Effect>
+        <Effect label="Thumpity thump thump Thumpity thump thump look at frosty go" startTime="45450" endTime="45825"></Effect>
+        <Effect label="" startTime="45825" endTime="47800"></Effect>
+        <Effect label="" startTime="47800" endTime="48125"></Effect>
+        <Effect label="" startTime="48125" endTime="49550"></Effect>
+        <Effect label="Look at him go" startTime="49550" endTime="50575"></Effect>
+        <Effect label="Thumpity thump thump Thumpity thump thump over the hills of snow" startTime="50575" endTime="50925"></Effect>
+        <Effect label="" startTime="50925" endTime="51625"></Effect>
+        <Effect label="" startTime="51625" endTime="51975"></Effect>
+        <Effect label="" startTime="51975" endTime="52950"></Effect>
+        <Effect label="" startTime="52950" endTime="53275"></Effect>
+        <Effect label="" startTime="53275" endTime="54825"></Effect>
+        <Effect label="Theres alot of it" startTime="54825" endTime="55800"></Effect>
+        <Effect label="Thumpity thump thump Thumpity thump thump look at frosty go" startTime="55800" endTime="60000"></Effect>
+        <Effect label="There he goes" startTime="60000" endTime="61050"></Effect>
+        <Effect label="Thumpity thump thump Thumpity thump thump over the hills of snow" startTime="61050" endTime="65225"></Effect>
+        <Effect label="Lets go" startTime="65225" endTime="66250"></Effect>
+        <Effect label="There must have been some magic" startTime="76475" endTime="78400"></Effect>
+        <Effect label="In that old silk hat they found" startTime="78400" endTime="81375"></Effect>
+        <Effect label="For when they placed it on his head" startTime="81375" endTime="83950"></Effect>
+        <Effect label="He began to dance around" startTime="83950" endTime="86200"></Effect>
+        <Effect label="Oh Frosty the Snowman" startTime="86200" endTime="89050"></Effect>
+        <Effect label="Was alive as he could be" startTime="89050" endTime="91600"></Effect>
+        <Effect label="And the children say" startTime="91600" endTime="92925"></Effect>
+        <Effect label="He could laugh and play" startTime="92925" endTime="94325"></Effect>
+        <Effect label="Just the same as you and me" startTime="94325" endTime="96875"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="Frosty" startTime="325" endTime="1500"></Effect>
+        <Effect label="the" startTime="1500" endTime="1625"></Effect>
+        <Effect label="snowman" startTime="1625" endTime="2500"></Effect>
+        <Effect label="was" startTime="2675" endTime="2800"></Effect>
+        <Effect label="a" startTime="2800" endTime="2925"></Effect>
+        <Effect label="jolly" startTime="2925" endTime="3575"></Effect>
+        <Effect label="happy" startTime="3575" endTime="4250"></Effect>
+        <Effect label="soul" startTime="4250" endTime="5200"></Effect>
+        <Effect label="With" startTime="5200" endTime="5400"></Effect>
+        <Effect label="a" startTime="5400" endTime="5525"></Effect>
+        <Effect label="corn" startTime="5525" endTime="5850"></Effect>
+        <Effect label="cob" startTime="5850" endTime="6175"></Effect>
+        <Effect label="pipe" startTime="6175" endTime="6550"></Effect>
+        <Effect label="and" startTime="6550" endTime="6675"></Effect>
+        <Effect label="a" startTime="6725" endTime="6800"></Effect>
+        <Effect label="button" startTime="6800" endTime="7350"></Effect>
+        <Effect label="nose" startTime="7350" endTime="7800"></Effect>
+        <Effect label="And" startTime="7800" endTime="7975"></Effect>
+        <Effect label="two" startTime="7975" endTime="8100"></Effect>
+        <Effect label="eyes" startTime="8100" endTime="8450"></Effect>
+        <Effect label="made" startTime="8450" endTime="8800"></Effect>
+        <Effect label="out" startTime="8800" endTime="9100"></Effect>
+        <Effect label="of" startTime="9100" endTime="9425"></Effect>
+        <Effect label="coal" startTime="9425" endTime="10100"></Effect>
+        <Effect label="Go" startTime="10400" endTime="10750"></Effect>
+        <Effect label="Frosty" startTime="10750" endTime="11850"></Effect>
+        <Effect label="the" startTime="11850" endTime="12025"></Effect>
+        <Effect label="snowman'" startTime="12025" endTime="12850"></Effect>
+        <Effect label="is" startTime="12850" endTime="13075"></Effect>
+        <Effect label="a" startTime="13075" endTime="13300"></Effect>
+        <Effect label="fairy" startTime="13300" endTime="13825"></Effect>
+        <Effect label="tale" startTime="13825" endTime="14225"></Effect>
+        <Effect label="they" startTime="14225" endTime="14450"></Effect>
+        <Effect label="say" startTime="14450" endTime="15350"></Effect>
+        <Effect label="He" startTime="15350" endTime="15625"></Effect>
+        <Effect label="was" startTime="15625" endTime="15875"></Effect>
+        <Effect label="made" startTime="15875" endTime="16200"></Effect>
+        <Effect label="of" startTime="16200" endTime="16475"></Effect>
+        <Effect label="snow" startTime="16475" endTime="16750"></Effect>
+        <Effect label="But" startTime="16750" endTime="17000"></Effect>
+        <Effect label="the" startTime="17000" endTime="17175"></Effect>
+        <Effect label="children" startTime="17175" endTime="17700"></Effect>
+        <Effect label="know" startTime="17700" endTime="18025"></Effect>
+        <Effect label="how" startTime="18025" endTime="18325"></Effect>
+        <Effect label="he" startTime="18325" endTime="18500"></Effect>
+        <Effect label="came" startTime="18500" endTime="18700"></Effect>
+        <Effect label="to" startTime="18700" endTime="18900"></Effect>
+        <Effect label="life" startTime="18900" endTime="19325"></Effect>
+        <Effect label="one" startTime="19325" endTime="19700"></Effect>
+        <Effect label="day" startTime="19700" endTime="20675"></Effect>
+        <Effect label="There" startTime="20675" endTime="20950"></Effect>
+        <Effect label="must" startTime="20950" endTime="21400"></Effect>
+        <Effect label="have" startTime="21400" endTime="21675"></Effect>
+        <Effect label="been" startTime="21675" endTime="21900"></Effect>
+        <Effect label="some" startTime="21900" endTime="22250"></Effect>
+        <Effect label="magic" startTime="22250" endTime="22850"></Effect>
+        <Effect label="in" startTime="22850" endTime="23200"></Effect>
+        <Effect label="That" startTime="23200" endTime="23650"></Effect>
+        <Effect label="ol'" startTime="23650" endTime="23875"></Effect>
+        <Effect label="silk" startTime="23875" endTime="24250"></Effect>
+        <Effect label="hat" startTime="24250" endTime="24600"></Effect>
+        <Effect label="they" startTime="24600" endTime="24900"></Effect>
+        <Effect label="found" startTime="24900" endTime="25675"></Effect>
+        <Effect label="For" startTime="25675" endTime="26025"></Effect>
+        <Effect label="when" startTime="26025" endTime="26375"></Effect>
+        <Effect label="they" startTime="26375" endTime="26675"></Effect>
+        <Effect label="placed" startTime="26675" endTime="27050"></Effect>
+        <Effect label="it" startTime="27050" endTime="27400"></Effect>
+        <Effect label="on" startTime="27400" endTime="27750"></Effect>
+        <Effect label="his" startTime="27750" endTime="28100"></Effect>
+        <Effect label="head" startTime="28100" endTime="28450"></Effect>
+        <Effect label="He" startTime="28450" endTime="28650"></Effect>
+        <Effect label="began" startTime="28650" endTime="29075"></Effect>
+        <Effect label="to" startTime="29075" endTime="29375"></Effect>
+        <Effect label="dance" startTime="29375" endTime="29800"></Effect>
+        <Effect label="around" startTime="29800" endTime="30750"></Effect>
+        <Effect label="oh" startTime="30750" endTime="31325"></Effect>
+        <Effect label="Frosty" startTime="31325" endTime="32425"></Effect>
+        <Effect label="the" startTime="32425" endTime="32600"></Effect>
+        <Effect label="snowman" startTime="32600" endTime="33525"></Effect>
+        <Effect label="was" startTime="33525" endTime="33725"></Effect>
+        <Effect label="alive" startTime="33725" endTime="34400"></Effect>
+        <Effect label="as" startTime="34400" endTime="34600"></Effect>
+        <Effect label="he" startTime="34600" endTime="34950"></Effect>
+        <Effect label="could" startTime="34950" endTime="35250"></Effect>
+        <Effect label="be" startTime="35250" endTime="36075"></Effect>
+        <Effect label="And" startTime="36075" endTime="36325"></Effect>
+        <Effect label="the" startTime="36325" endTime="36450"></Effect>
+        <Effect label="children" startTime="36450" endTime="37000"></Effect>
+        <Effect label="say" startTime="37000" endTime="37400"></Effect>
+        <Effect label="he" startTime="37400" endTime="37575"></Effect>
+        <Effect label="could" startTime="37575" endTime="37775"></Effect>
+        <Effect label="laugh" startTime="37775" endTime="38125"></Effect>
+        <Effect label="and" startTime="38125" endTime="38375"></Effect>
+        <Effect label="play" startTime="38375" endTime="38725"></Effect>
+        <Effect label="Just" startTime="38725" endTime="38975"></Effect>
+        <Effect label="the" startTime="38975" endTime="39100"></Effect>
+        <Effect label="same" startTime="39100" endTime="39375"></Effect>
+        <Effect label="as" startTime="39375" endTime="39675"></Effect>
+        <Effect label="you" startTime="39675" endTime="39925"></Effect>
+        <Effect label="and" startTime="39925" endTime="40250"></Effect>
+        <Effect label="me" startTime="40250" endTime="42000"></Effect>
+        <Effect label="Oh" startTime="42425" endTime="43975"></Effect>
+        <Effect label="Lets" startTime="44550" endTime="44875"></Effect>
+        <Effect label="go" startTime="44875" endTime="45450"></Effect>
+        <Effect label="Thumpity" startTime="45450" endTime="46100"></Effect>
+        <Effect label="thump" startTime="46100" endTime="46425"></Effect>
+        <Effect label="thump" startTime="46425" endTime="46725"></Effect>
+        <Effect label="Thumpity" startTime="46725" endTime="47425"></Effect>
+        <Effect label="thump" startTime="47425" endTime="47725"></Effect>
+        <Effect label="thump" startTime="47725" endTime="48075"></Effect>
+        <Effect label="look" startTime="48075" endTime="48425"></Effect>
+        <Effect label="at" startTime="48425" endTime="48600"></Effect>
+        <Effect label="frosty" startTime="48600" endTime="49325"></Effect>
+        <Effect label="go" startTime="49325" endTime="49625"></Effect>
+        <Effect label="Look" startTime="49625" endTime="49725"></Effect>
+        <Effect label="at" startTime="49725" endTime="49850"></Effect>
+        <Effect label="him" startTime="49850" endTime="49950"></Effect>
+        <Effect label="go" startTime="49950" endTime="50575"></Effect>
+        <Effect label="Thumpity" startTime="50575" endTime="51325"></Effect>
+        <Effect label="thump" startTime="51325" endTime="51550"></Effect>
+        <Effect label="thump" startTime="51550" endTime="51900"></Effect>
+        <Effect label="Thumpity" startTime="51900" endTime="52475"></Effect>
+        <Effect label="thump" startTime="52475" endTime="52850"></Effect>
+        <Effect label="thump" startTime="52850" endTime="53225"></Effect>
+        <Effect label="over" startTime="53225" endTime="53650"></Effect>
+        <Effect label="the" startTime="53650" endTime="53850"></Effect>
+        <Effect label="hills" startTime="53850" endTime="54200"></Effect>
+        <Effect label="of" startTime="54200" endTime="54425"></Effect>
+        <Effect label="snow" startTime="54425" endTime="55025"></Effect>
+        <Effect label="Theres" startTime="55025" endTime="55125"></Effect>
+        <Effect label="alot" startTime="55125" endTime="55375"></Effect>
+        <Effect label="of" startTime="55375" endTime="55500"></Effect>
+        <Effect label="it" startTime="55500" endTime="55725"></Effect>
+        <Effect label="Thumpity" startTime="55875" endTime="56525"></Effect>
+        <Effect label="thump" startTime="56525" endTime="56850"></Effect>
+        <Effect label="thump" startTime="56850" endTime="57150"></Effect>
+        <Effect label="Thumpity" startTime="57150" endTime="57800"></Effect>
+        <Effect label="thump" startTime="57800" endTime="58075"></Effect>
+        <Effect label="thump" startTime="58075" endTime="58400"></Effect>
+        <Effect label="look" startTime="58400" endTime="58725"></Effect>
+        <Effect label="at" startTime="58725" endTime="59025"></Effect>
+        <Effect label="frosty" startTime="59025" endTime="59725"></Effect>
+        <Effect label="go" startTime="59725" endTime="60050"></Effect>
+        <Effect label="There" startTime="60050" endTime="60200"></Effect>
+        <Effect label="he" startTime="60200" endTime="60325"></Effect>
+        <Effect label="goes" startTime="60325" endTime="61050"></Effect>
+        <Effect label="Thumpity" startTime="61050" endTime="61650"></Effect>
+        <Effect label="thump" startTime="61650" endTime="62000"></Effect>
+        <Effect label="thump" startTime="62000" endTime="62300"></Effect>
+        <Effect label="Thumpity" startTime="62300" endTime="62950"></Effect>
+        <Effect label="thump" startTime="62950" endTime="63275"></Effect>
+        <Effect label="thump" startTime="63275" endTime="63625"></Effect>
+        <Effect label="over" startTime="63625" endTime="64100"></Effect>
+        <Effect label="the" startTime="64100" endTime="64300"></Effect>
+        <Effect label="hills" startTime="64300" endTime="64525"></Effect>
+        <Effect label="of" startTime="64525" endTime="64875"></Effect>
+        <Effect label="snow" startTime="64875" endTime="65425"></Effect>
+        <Effect label="Lets" startTime="65425" endTime="65600"></Effect>
+        <Effect label="go" startTime="65600" endTime="66250"></Effect>
+        <Effect label="There" startTime="76275" endTime="76550"></Effect>
+        <Effect label="must" startTime="76550" endTime="76900"></Effect>
+        <Effect label="have" startTime="76900" endTime="77225"></Effect>
+        <Effect label="been" startTime="77225" endTime="77500"></Effect>
+        <Effect label="some" startTime="77500" endTime="77750"></Effect>
+        <Effect label="magic" startTime="77750" endTime="78400"></Effect>
+        <Effect label="In" startTime="78400" endTime="78650"></Effect>
+        <Effect label="that" startTime="78650" endTime="79100"></Effect>
+        <Effect label="old" startTime="79100" endTime="79325"></Effect>
+        <Effect label="silk" startTime="79325" endTime="79750"></Effect>
+        <Effect label="hat" startTime="79750" endTime="80100"></Effect>
+        <Effect label="they" startTime="80100" endTime="80400"></Effect>
+        <Effect label="found" startTime="80400" endTime="81375"></Effect>
+        <Effect label="For" startTime="81375" endTime="81700"></Effect>
+        <Effect label="when" startTime="81700" endTime="81850"></Effect>
+        <Effect label="they" startTime="81850" endTime="82225"></Effect>
+        <Effect label="placed" startTime="82225" endTime="82625"></Effect>
+        <Effect label="it" startTime="82625" endTime="82825"></Effect>
+        <Effect label="on" startTime="82825" endTime="83225"></Effect>
+        <Effect label="his" startTime="83225" endTime="83625"></Effect>
+        <Effect label="head" startTime="83625" endTime="83950"></Effect>
+        <Effect label="He" startTime="83950" endTime="84125"></Effect>
+        <Effect label="began" startTime="84125" endTime="84575"></Effect>
+        <Effect label="to" startTime="84575" endTime="84825"></Effect>
+        <Effect label="dance" startTime="84825" endTime="85250"></Effect>
+        <Effect label="around" startTime="85250" endTime="86200"></Effect>
+        <Effect label="Oh" startTime="86200" endTime="86700"></Effect>
+        <Effect label="Frosty" startTime="86700" endTime="87975"></Effect>
+        <Effect label="the" startTime="87975" endTime="88175"></Effect>
+        <Effect label="Snowman" startTime="88175" endTime="89050"></Effect>
+        <Effect label="Was" startTime="89050" endTime="89275"></Effect>
+        <Effect label="alive" startTime="89275" endTime="89700"></Effect>
+        <Effect label="as" startTime="89700" endTime="89925"></Effect>
+        <Effect label="he" startTime="89925" endTime="90325"></Effect>
+        <Effect label="could" startTime="90325" endTime="90625"></Effect>
+        <Effect label="be" startTime="90625" endTime="91600"></Effect>
+        <Effect label="And" startTime="91600" endTime="91800"></Effect>
+        <Effect label="the" startTime="91800" endTime="92000"></Effect>
+        <Effect label="children" startTime="92000" endTime="92600"></Effect>
+        <Effect label="say" startTime="92600" endTime="92925"></Effect>
+        <Effect label="He" startTime="92925" endTime="93150"></Effect>
+        <Effect label="could" startTime="93150" endTime="93325"></Effect>
+        <Effect label="laugh" startTime="93325" endTime="93600"></Effect>
+        <Effect label="and" startTime="93600" endTime="93900"></Effect>
+        <Effect label="play" startTime="93900" endTime="94250"></Effect>
+        <Effect label="Just" startTime="94250" endTime="94400"></Effect>
+        <Effect label="the" startTime="94400" endTime="94600"></Effect>
+        <Effect label="same" startTime="94600" endTime="94900"></Effect>
+        <Effect label="as" startTime="94900" endTime="95250"></Effect>
+        <Effect label="you" startTime="95250" endTime="95575"></Effect>
+        <Effect label="and" startTime="95575" endTime="95875"></Effect>
+        <Effect label="me" startTime="95875" endTime="96875"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="FV" startTime="325" endTime="675"></Effect>
+        <Effect label="etc" startTime="675" endTime="725"></Effect>
+        <Effect label="O" startTime="725" endTime="1100"></Effect>
+        <Effect label="etc" startTime="1100" endTime="1150"></Effect>
+        <Effect label="E" startTime="1150" endTime="1500"></Effect>
+        <Effect label="etc" startTime="1500" endTime="1550"></Effect>
+        <Effect label="AI" startTime="1550" endTime="1625"></Effect>
+        <Effect label="etc" startTime="1625" endTime="1675"></Effect>
+        <Effect label="O" startTime="1675" endTime="2025"></Effect>
+        <Effect label="MBP" startTime="2025" endTime="2075"></Effect>
+        <Effect label="AI" startTime="2075" endTime="2450"></Effect>
+        <Effect label="etc" startTime="2450" endTime="2500"></Effect>
+        <Effect label="WQ" startTime="2675" endTime="2725"></Effect>
+        <Effect label="AI" startTime="2725" endTime="2775"></Effect>
+        <Effect label="etc" startTime="2775" endTime="2800"></Effect>
+        <Effect label="AI" startTime="2800" endTime="2925"></Effect>
+        <Effect label="etc" startTime="2925" endTime="2975"></Effect>
+        <Effect label="AI" startTime="2975" endTime="3175"></Effect>
+        <Effect label="L" startTime="3175" endTime="3375"></Effect>
+        <Effect label="E" startTime="3375" endTime="3575"></Effect>
+        <Effect label="etc" startTime="3575" endTime="3625"></Effect>
+        <Effect label="AI" startTime="3625" endTime="3900"></Effect>
+        <Effect label="MBP" startTime="3900" endTime="3950"></Effect>
+        <Effect label="E" startTime="3950" endTime="4250"></Effect>
+        <Effect label="etc" startTime="4250" endTime="4300"></Effect>
+        <Effect label="O" startTime="4300" endTime="4750"></Effect>
+        <Effect label="L" startTime="4750" endTime="5200"></Effect>
+        <Effect label="WQ" startTime="5200" endTime="5275"></Effect>
+        <Effect label="AI" startTime="5275" endTime="5350"></Effect>
+        <Effect label="etc" startTime="5350" endTime="5400"></Effect>
+        <Effect label="AI" startTime="5400" endTime="5525"></Effect>
+        <Effect label="etc" startTime="5525" endTime="5575"></Effect>
+        <Effect label="O" startTime="5575" endTime="5800"></Effect>
+        <Effect label="etc" startTime="5800" endTime="5850"></Effect>
+        <Effect label="etc" startTime="5850" endTime="5900"></Effect>
+        <Effect label="AI" startTime="5900" endTime="6125"></Effect>
+        <Effect label="MBP" startTime="6125" endTime="6175"></Effect>
+        <Effect label="MBP" startTime="6175" endTime="6225"></Effect>
+        <Effect label="AI" startTime="6225" endTime="6500"></Effect>
+        <Effect label="MBP" startTime="6500" endTime="6550"></Effect>
+        <Effect label="AI" startTime="6550" endTime="6625"></Effect>
+        <Effect label="etc" startTime="6625" endTime="6675"></Effect>
+        <Effect label="AI" startTime="6725" endTime="6800"></Effect>
+        <Effect label="MBP" startTime="6800" endTime="6850"></Effect>
+        <Effect label="AI" startTime="6850" endTime="7050"></Effect>
+        <Effect label="etc" startTime="7050" endTime="7100"></Effect>
+        <Effect label="AI" startTime="7100" endTime="7300"></Effect>
+        <Effect label="etc" startTime="7300" endTime="7350"></Effect>
+        <Effect label="etc" startTime="7350" endTime="7400"></Effect>
+        <Effect label="O" startTime="7400" endTime="7750"></Effect>
+        <Effect label="etc" startTime="7750" endTime="7800"></Effect>
+        <Effect label="AI" startTime="7800" endTime="7925"></Effect>
+        <Effect label="etc" startTime="7925" endTime="7975"></Effect>
+        <Effect label="etc" startTime="7975" endTime="8025"></Effect>
+        <Effect label="U" startTime="8025" endTime="8100"></Effect>
+        <Effect label="AI" startTime="8100" endTime="8400"></Effect>
+        <Effect label="etc" startTime="8400" endTime="8450"></Effect>
+        <Effect label="MBP" startTime="8450" endTime="8500"></Effect>
+        <Effect label="E" startTime="8500" endTime="8750"></Effect>
+        <Effect label="etc" startTime="8750" endTime="8800"></Effect>
+        <Effect label="O" startTime="8800" endTime="9050"></Effect>
+        <Effect label="etc" startTime="9050" endTime="9100"></Effect>
+        <Effect label="AI" startTime="9100" endTime="9250"></Effect>
+        <Effect label="FV" startTime="9250" endTime="9425"></Effect>
+        <Effect label="etc" startTime="9425" endTime="9475"></Effect>
+        <Effect label="O" startTime="9475" endTime="9775"></Effect>
+        <Effect label="L" startTime="9775" endTime="10100"></Effect>
+        <Effect label="etc" startTime="10400" endTime="10450"></Effect>
+        <Effect label="O" startTime="10450" endTime="10750"></Effect>
+        <Effect label="FV" startTime="10750" endTime="11075"></Effect>
+        <Effect label="etc" startTime="11075" endTime="11125"></Effect>
+        <Effect label="O" startTime="11125" endTime="11475"></Effect>
+        <Effect label="etc" startTime="11475" endTime="11525"></Effect>
+        <Effect label="E" startTime="11525" endTime="11850"></Effect>
+        <Effect label="etc" startTime="11850" endTime="11900"></Effect>
+        <Effect label="AI" startTime="11900" endTime="12025"></Effect>
+        <Effect label="AI" startTime="12850" endTime="13025"></Effect>
+        <Effect label="etc" startTime="13025" endTime="13075"></Effect>
+        <Effect label="AI" startTime="13075" endTime="13300"></Effect>
+        <Effect label="FV" startTime="13300" endTime="13450"></Effect>
+        <Effect label="E" startTime="13450" endTime="13625"></Effect>
+        <Effect label="etc" startTime="13625" endTime="13675"></Effect>
+        <Effect label="E" startTime="13675" endTime="13825"></Effect>
+        <Effect label="etc" startTime="13825" endTime="13875"></Effect>
+        <Effect label="E" startTime="13875" endTime="14050"></Effect>
+        <Effect label="L" startTime="14050" endTime="14225"></Effect>
+        <Effect label="etc" startTime="14225" endTime="14275"></Effect>
+        <Effect label="E" startTime="14275" endTime="14450"></Effect>
+        <Effect label="etc" startTime="14450" endTime="14500"></Effect>
+        <Effect label="E" startTime="14500" endTime="15350"></Effect>
+        <Effect label="etc" startTime="15350" endTime="15400"></Effect>
+        <Effect label="E" startTime="15400" endTime="15625"></Effect>
+        <Effect label="WQ" startTime="15625" endTime="15725"></Effect>
+        <Effect label="AI" startTime="15725" endTime="15825"></Effect>
+        <Effect label="etc" startTime="15825" endTime="15875"></Effect>
+        <Effect label="MBP" startTime="15875" endTime="15925"></Effect>
+        <Effect label="E" startTime="15925" endTime="16150"></Effect>
+        <Effect label="etc" startTime="16150" endTime="16200"></Effect>
+        <Effect label="AI" startTime="16200" endTime="16325"></Effect>
+        <Effect label="FV" startTime="16325" endTime="16475"></Effect>
+        <Effect label="etc" startTime="16475" endTime="16525"></Effect>
+        <Effect label="O" startTime="16525" endTime="16750"></Effect>
+        <Effect label="MBP" startTime="16750" endTime="16800"></Effect>
+        <Effect label="AI" startTime="16800" endTime="16950"></Effect>
+        <Effect label="etc" startTime="16950" endTime="17000"></Effect>
+        <Effect label="etc" startTime="17000" endTime="17050"></Effect>
+        <Effect label="AI" startTime="17050" endTime="17175"></Effect>
+        <Effect label="etc" startTime="17175" endTime="17225"></Effect>
+        <Effect label="AI" startTime="17225" endTime="17350"></Effect>
+        <Effect label="L" startTime="17350" endTime="17475"></Effect>
+        <Effect label="etc" startTime="17475" endTime="17525"></Effect>
+        <Effect label="AI" startTime="17525" endTime="17650"></Effect>
+        <Effect label="etc" startTime="17650" endTime="17700"></Effect>
+        <Effect label="etc" startTime="17700" endTime="17750"></Effect>
+        <Effect label="O" startTime="17750" endTime="18025"></Effect>
+        <Effect label="etc" startTime="18025" endTime="18075"></Effect>
+        <Effect label="O" startTime="18075" endTime="18325"></Effect>
+        <Effect label="etc" startTime="18325" endTime="18375"></Effect>
+        <Effect label="E" startTime="18375" endTime="18500"></Effect>
+        <Effect label="etc" startTime="18500" endTime="18550"></Effect>
+        <Effect label="E" startTime="18550" endTime="18650"></Effect>
+        <Effect label="MBP" startTime="18650" endTime="18700"></Effect>
+        <Effect label="etc" startTime="18700" endTime="18750"></Effect>
+        <Effect label="U" startTime="18750" endTime="18900"></Effect>
+        <Effect label="L" startTime="18900" endTime="19050"></Effect>
+        <Effect label="AI" startTime="19050" endTime="19175"></Effect>
+        <Effect label="FV" startTime="19175" endTime="19325"></Effect>
+        <Effect label="WQ" startTime="19325" endTime="19475"></Effect>
+        <Effect label="AI" startTime="19475" endTime="19650"></Effect>
+        <Effect label="etc" startTime="19650" endTime="19700"></Effect>
+        <Effect label="etc" startTime="19700" endTime="19750"></Effect>
+        <Effect label="E" startTime="19750" endTime="20675"></Effect>
+        <Effect label="etc" startTime="20675" endTime="20725"></Effect>
+        <Effect label="E" startTime="20725" endTime="20900"></Effect>
+        <Effect label="etc" startTime="20900" endTime="20950"></Effect>
+        <Effect label="MBP" startTime="20950" endTime="21000"></Effect>
+        <Effect label="AI" startTime="21000" endTime="21350"></Effect>
+        <Effect label="etc" startTime="21350" endTime="21400"></Effect>
+        <Effect label="etc" startTime="21400" endTime="21450"></Effect>
+        <Effect label="AI" startTime="21450" endTime="21550"></Effect>
+        <Effect label="FV" startTime="21550" endTime="21675"></Effect>
+        <Effect label="MBP" startTime="21675" endTime="21725"></Effect>
+        <Effect label="AI" startTime="21725" endTime="21850"></Effect>
+        <Effect label="etc" startTime="21850" endTime="21900"></Effect>
+        <Effect label="etc" startTime="21900" endTime="21950"></Effect>
+        <Effect label="AI" startTime="21950" endTime="22200"></Effect>
+        <Effect label="MBP" startTime="22200" endTime="22250"></Effect>
+        <Effect label="MBP" startTime="22250" endTime="22300"></Effect>
+        <Effect label="AI" startTime="22300" endTime="22525"></Effect>
+        <Effect label="etc" startTime="22525" endTime="22575"></Effect>
+        <Effect label="AI" startTime="22575" endTime="22800"></Effect>
+        <Effect label="etc" startTime="22800" endTime="22850"></Effect>
+        <Effect label="AI" startTime="22850" endTime="23150"></Effect>
+        <Effect label="etc" startTime="23150" endTime="23200"></Effect>
+        <Effect label="etc" startTime="23200" endTime="23250"></Effect>
+        <Effect label="AI" startTime="23250" endTime="23600"></Effect>
+        <Effect label="etc" startTime="23600" endTime="23650"></Effect>
+        <Effect label="O" startTime="23650" endTime="23750"></Effect>
+        <Effect label="L" startTime="23750" endTime="23875"></Effect>
+        <Effect label="etc" startTime="23875" endTime="23925"></Effect>
+        <Effect label="AI" startTime="23925" endTime="24050"></Effect>
+        <Effect label="L" startTime="24050" endTime="24200"></Effect>
+        <Effect label="etc" startTime="24200" endTime="24250"></Effect>
+        <Effect label="etc" startTime="24250" endTime="24300"></Effect>
+        <Effect label="AI" startTime="24300" endTime="24550"></Effect>
+        <Effect label="etc" startTime="24550" endTime="24600"></Effect>
+        <Effect label="etc" startTime="24600" endTime="24650"></Effect>
+        <Effect label="E" startTime="24650" endTime="24900"></Effect>
+        <Effect label="FV" startTime="24900" endTime="25250"></Effect>
+        <Effect label="O" startTime="25250" endTime="25625"></Effect>
+        <Effect label="etc" startTime="25625" endTime="25675"></Effect>
+        <Effect label="FV" startTime="25675" endTime="25825"></Effect>
+        <Effect label="O" startTime="25825" endTime="25975"></Effect>
+        <Effect label="etc" startTime="25975" endTime="26025"></Effect>
+        <Effect label="WQ" startTime="26025" endTime="26175"></Effect>
+        <Effect label="E" startTime="26175" endTime="26325"></Effect>
+        <Effect label="etc" startTime="26325" endTime="26375"></Effect>
+        <Effect label="etc" startTime="26375" endTime="26425"></Effect>
+        <Effect label="E" startTime="26425" endTime="26675"></Effect>
+        <Effect label="MBP" startTime="26675" endTime="26725"></Effect>
+        <Effect label="L" startTime="26725" endTime="26850"></Effect>
+        <Effect label="E" startTime="26850" endTime="27000"></Effect>
+        <Effect label="etc" startTime="27000" endTime="27050"></Effect>
+        <Effect label="AI" startTime="27050" endTime="27350"></Effect>
+        <Effect label="etc" startTime="27350" endTime="27400"></Effect>
+        <Effect label="AI" startTime="27400" endTime="27700"></Effect>
+        <Effect label="etc" startTime="27700" endTime="27750"></Effect>
+        <Effect label="etc" startTime="27750" endTime="27800"></Effect>
+        <Effect label="AI" startTime="27800" endTime="28050"></Effect>
+        <Effect label="etc" startTime="28050" endTime="28100"></Effect>
+        <Effect label="etc" startTime="28100" endTime="28150"></Effect>
+        <Effect label="E" startTime="28150" endTime="28400"></Effect>
+        <Effect label="etc" startTime="28400" endTime="28450"></Effect>
+        <Effect label="etc" startTime="28450" endTime="28500"></Effect>
+        <Effect label="E" startTime="28500" endTime="28650"></Effect>
+        <Effect label="MBP" startTime="28650" endTime="28700"></Effect>
+        <Effect label="AI" startTime="28700" endTime="28825"></Effect>
+        <Effect label="etc" startTime="28825" endTime="28875"></Effect>
+        <Effect label="AI" startTime="28875" endTime="29025"></Effect>
+        <Effect label="etc" startTime="29025" endTime="29075"></Effect>
+        <Effect label="etc" startTime="29075" endTime="29125"></Effect>
+        <Effect label="U" startTime="29125" endTime="29375"></Effect>
+        <Effect label="etc" startTime="29375" endTime="29425"></Effect>
+        <Effect label="AI" startTime="29425" endTime="29750"></Effect>
+        <Effect label="etc" startTime="29750" endTime="29800"></Effect>
+        <Effect label="E" startTime="29800" endTime="30250"></Effect>
+        <Effect label="O" startTime="30250" endTime="30700"></Effect>
+        <Effect label="etc" startTime="30700" endTime="30750"></Effect>
+        <Effect label="O" startTime="30750" endTime="31325"></Effect>
+        <Effect label="FV" startTime="31325" endTime="31650"></Effect>
+        <Effect label="etc" startTime="31650" endTime="31700"></Effect>
+        <Effect label="O" startTime="31700" endTime="32050"></Effect>
+        <Effect label="etc" startTime="32050" endTime="32100"></Effect>
+        <Effect label="E" startTime="32100" endTime="32425"></Effect>
+        <Effect label="etc" startTime="32425" endTime="32475"></Effect>
+        <Effect label="AI" startTime="32475" endTime="32600"></Effect>
+        <Effect label="etc" startTime="32600" endTime="32650"></Effect>
+        <Effect label="O" startTime="32650" endTime="33025"></Effect>
+        <Effect label="MBP" startTime="33025" endTime="33075"></Effect>
+        <Effect label="AI" startTime="33075" endTime="33475"></Effect>
+        <Effect label="etc" startTime="33475" endTime="33525"></Effect>
+        <Effect label="WQ" startTime="33525" endTime="33600"></Effect>
+        <Effect label="AI" startTime="33600" endTime="33675"></Effect>
+        <Effect label="etc" startTime="33675" endTime="33725"></Effect>
+        <Effect label="AI" startTime="33725" endTime="33900"></Effect>
+        <Effect label="L" startTime="33900" endTime="34050"></Effect>
+        <Effect label="AI" startTime="34050" endTime="34225"></Effect>
+        <Effect label="FV" startTime="34225" endTime="34400"></Effect>
+        <Effect label="AI" startTime="34400" endTime="34550"></Effect>
+        <Effect label="etc" startTime="34550" endTime="34600"></Effect>
+        <Effect label="etc" startTime="34600" endTime="34650"></Effect>
+        <Effect label="E" startTime="34650" endTime="34950"></Effect>
+        <Effect label="etc" startTime="34950" endTime="35000"></Effect>
+        <Effect label="U" startTime="35000" endTime="35200"></Effect>
+        <Effect label="etc" startTime="35200" endTime="35250"></Effect>
+        <Effect label="MBP" startTime="35250" endTime="35300"></Effect>
+        <Effect label="E" startTime="35300" endTime="36075"></Effect>
+        <Effect label="AI" startTime="36075" endTime="36275"></Effect>
+        <Effect label="etc" startTime="36275" endTime="36325"></Effect>
+        <Effect label="etc" startTime="36325" endTime="36375"></Effect>
+        <Effect label="AI" startTime="36375" endTime="36450"></Effect>
+        <Effect label="etc" startTime="36450" endTime="36500"></Effect>
+        <Effect label="AI" startTime="36500" endTime="36625"></Effect>
+        <Effect label="L" startTime="36625" endTime="36775"></Effect>
+        <Effect label="etc" startTime="36775" endTime="36825"></Effect>
+        <Effect label="AI" startTime="36825" endTime="36950"></Effect>
+        <Effect label="etc" startTime="36950" endTime="37000"></Effect>
+        <Effect label="etc" startTime="37000" endTime="37050"></Effect>
+        <Effect label="E" startTime="37050" endTime="37400"></Effect>
+        <Effect label="etc" startTime="37400" endTime="37450"></Effect>
+        <Effect label="E" startTime="37450" endTime="37575"></Effect>
+        <Effect label="etc" startTime="37575" endTime="37625"></Effect>
+        <Effect label="U" startTime="37625" endTime="37725"></Effect>
+        <Effect label="etc" startTime="37725" endTime="37775"></Effect>
+        <Effect label="L" startTime="37775" endTime="37900"></Effect>
+        <Effect label="AI" startTime="37900" endTime="38000"></Effect>
+        <Effect label="FV" startTime="38000" endTime="38125"></Effect>
+        <Effect label="AI" startTime="38125" endTime="38325"></Effect>
+        <Effect label="etc" startTime="38325" endTime="38375"></Effect>
+        <Effect label="MBP" startTime="38375" endTime="38425"></Effect>
+        <Effect label="L" startTime="38425" endTime="38575"></Effect>
+        <Effect label="E" startTime="38575" endTime="38725"></Effect>
+        <Effect label="etc" startTime="38725" endTime="38775"></Effect>
+        <Effect label="AI" startTime="38775" endTime="38925"></Effect>
+        <Effect label="etc" startTime="38925" endTime="38975"></Effect>
+        <Effect label="etc" startTime="38975" endTime="39025"></Effect>
+        <Effect label="AI" startTime="39025" endTime="39100"></Effect>
+        <Effect label="etc" startTime="39100" endTime="39150"></Effect>
+        <Effect label="E" startTime="39150" endTime="39325"></Effect>
+        <Effect label="MBP" startTime="39325" endTime="39375"></Effect>
+        <Effect label="AI" startTime="39375" endTime="39625"></Effect>
+        <Effect label="etc" startTime="39625" endTime="39675"></Effect>
+        <Effect label="etc" startTime="39675" endTime="39725"></Effect>
+        <Effect label="U" startTime="39725" endTime="39925"></Effect>
+        <Effect label="AI" startTime="39925" endTime="40200"></Effect>
+        <Effect label="etc" startTime="40200" endTime="40250"></Effect>
+        <Effect label="MBP" startTime="40250" endTime="40300"></Effect>
+        <Effect label="E" startTime="40300" endTime="42000"></Effect>
+        <Effect label="O" startTime="42425" endTime="43975"></Effect>
+        <Effect label="L" startTime="44550" endTime="44675"></Effect>
+        <Effect label="E" startTime="44675" endTime="44825"></Effect>
+        <Effect label="etc" startTime="44825" endTime="44875"></Effect>
+        <Effect label="etc" startTime="44875" endTime="44925"></Effect>
+        <Effect label="O" startTime="44925" endTime="45450"></Effect>
+        <Effect label="etc" startTime="46100" endTime="46150"></Effect>
+        <Effect label="AI" startTime="46150" endTime="46325"></Effect>
+        <Effect label="MBP" startTime="46325" endTime="46375"></Effect>
+        <Effect label="MBP" startTime="46375" endTime="46425"></Effect>
+        <Effect label="etc" startTime="46425" endTime="46475"></Effect>
+        <Effect label="AI" startTime="46475" endTime="46625"></Effect>
+        <Effect label="MBP" startTime="46625" endTime="46675"></Effect>
+        <Effect label="MBP" startTime="46675" endTime="46725"></Effect>
+        <Effect label="etc" startTime="47425" endTime="47475"></Effect>
+        <Effect label="AI" startTime="47475" endTime="47625"></Effect>
+        <Effect label="MBP" startTime="47625" endTime="47675"></Effect>
+        <Effect label="MBP" startTime="47675" endTime="47725"></Effect>
+        <Effect label="etc" startTime="47725" endTime="47775"></Effect>
+        <Effect label="AI" startTime="47775" endTime="47975"></Effect>
+        <Effect label="MBP" startTime="47975" endTime="48025"></Effect>
+        <Effect label="MBP" startTime="48025" endTime="48075"></Effect>
+        <Effect label="L" startTime="48075" endTime="48225"></Effect>
+        <Effect label="U" startTime="48225" endTime="48375"></Effect>
+        <Effect label="etc" startTime="48375" endTime="48425"></Effect>
+        <Effect label="AI" startTime="48425" endTime="48550"></Effect>
+        <Effect label="etc" startTime="48550" endTime="48600"></Effect>
+        <Effect label="FV" startTime="48600" endTime="48800"></Effect>
+        <Effect label="etc" startTime="48800" endTime="48850"></Effect>
+        <Effect label="O" startTime="48850" endTime="49075"></Effect>
+        <Effect label="etc" startTime="49075" endTime="49125"></Effect>
+        <Effect label="E" startTime="49125" endTime="49325"></Effect>
+        <Effect label="etc" startTime="49325" endTime="49375"></Effect>
+        <Effect label="O" startTime="49375" endTime="49625"></Effect>
+        <Effect label="L" startTime="49625" endTime="49650"></Effect>
+        <Effect label="U" startTime="49650" endTime="49700"></Effect>
+        <Effect label="etc" startTime="49700" endTime="49725"></Effect>
+        <Effect label="AI" startTime="49725" endTime="49800"></Effect>
+        <Effect label="etc" startTime="49800" endTime="49850"></Effect>
+        <Effect label="etc" startTime="49850" endTime="49875"></Effect>
+        <Effect label="AI" startTime="49875" endTime="49925"></Effect>
+        <Effect label="MBP" startTime="49925" endTime="49950"></Effect>
+        <Effect label="etc" startTime="49950" endTime="50000"></Effect>
+        <Effect label="O" startTime="50000" endTime="50575"></Effect>
+        <Effect label="etc" startTime="51325" endTime="51375"></Effect>
+        <Effect label="AI" startTime="51375" endTime="51450"></Effect>
+        <Effect label="MBP" startTime="51450" endTime="51500"></Effect>
+        <Effect label="MBP" startTime="51500" endTime="51550"></Effect>
+        <Effect label="etc" startTime="51550" endTime="51600"></Effect>
+        <Effect label="AI" startTime="51600" endTime="51800"></Effect>
+        <Effect label="MBP" startTime="51800" endTime="51850"></Effect>
+        <Effect label="MBP" startTime="51850" endTime="51900"></Effect>
+        <Effect label="etc" startTime="52475" endTime="52525"></Effect>
+        <Effect label="AI" startTime="52525" endTime="52750"></Effect>
+        <Effect label="MBP" startTime="52750" endTime="52800"></Effect>
+        <Effect label="MBP" startTime="52800" endTime="52850"></Effect>
+        <Effect label="etc" startTime="52850" endTime="52900"></Effect>
+        <Effect label="AI" startTime="52900" endTime="53125"></Effect>
+        <Effect label="MBP" startTime="53125" endTime="53175"></Effect>
+        <Effect label="MBP" startTime="53175" endTime="53225"></Effect>
+        <Effect label="O" startTime="53225" endTime="53375"></Effect>
+        <Effect label="FV" startTime="53375" endTime="53500"></Effect>
+        <Effect label="E" startTime="53500" endTime="53650"></Effect>
+        <Effect label="etc" startTime="53650" endTime="53700"></Effect>
+        <Effect label="AI" startTime="53700" endTime="53850"></Effect>
+        <Effect label="etc" startTime="53850" endTime="53900"></Effect>
+        <Effect label="AI" startTime="53900" endTime="54025"></Effect>
+        <Effect label="L" startTime="54025" endTime="54150"></Effect>
+        <Effect label="etc" startTime="54150" endTime="54200"></Effect>
+        <Effect label="AI" startTime="54200" endTime="54300"></Effect>
+        <Effect label="FV" startTime="54300" endTime="54425"></Effect>
+        <Effect label="etc" startTime="54425" endTime="54475"></Effect>
+        <Effect label="O" startTime="54475" endTime="55025"></Effect>
+        <Effect label="AI" startTime="55125" endTime="55200"></Effect>
+        <Effect label="L" startTime="55200" endTime="55250"></Effect>
+        <Effect label="AI" startTime="55250" endTime="55325"></Effect>
+        <Effect label="etc" startTime="55325" endTime="55375"></Effect>
+        <Effect label="AI" startTime="55375" endTime="55425"></Effect>
+        <Effect label="FV" startTime="55425" endTime="55500"></Effect>
+        <Effect label="AI" startTime="55500" endTime="55675"></Effect>
+        <Effect label="etc" startTime="55675" endTime="55725"></Effect>
+        <Effect label="etc" startTime="56525" endTime="56575"></Effect>
+        <Effect label="AI" startTime="56575" endTime="56750"></Effect>
+        <Effect label="MBP" startTime="56750" endTime="56800"></Effect>
+        <Effect label="MBP" startTime="56800" endTime="56850"></Effect>
+        <Effect label="etc" startTime="56850" endTime="56900"></Effect>
+        <Effect label="AI" startTime="56900" endTime="57050"></Effect>
+        <Effect label="MBP" startTime="57050" endTime="57100"></Effect>
+        <Effect label="MBP" startTime="57100" endTime="57150"></Effect>
+        <Effect label="etc" startTime="57800" endTime="57850"></Effect>
+        <Effect label="AI" startTime="57850" endTime="57975"></Effect>
+        <Effect label="MBP" startTime="57975" endTime="58025"></Effect>
+        <Effect label="MBP" startTime="58025" endTime="58075"></Effect>
+        <Effect label="etc" startTime="58075" endTime="58125"></Effect>
+        <Effect label="AI" startTime="58125" endTime="58300"></Effect>
+        <Effect label="MBP" startTime="58300" endTime="58350"></Effect>
+        <Effect label="MBP" startTime="58350" endTime="58400"></Effect>
+        <Effect label="L" startTime="58400" endTime="58525"></Effect>
+        <Effect label="U" startTime="58525" endTime="58675"></Effect>
+        <Effect label="etc" startTime="58675" endTime="58725"></Effect>
+        <Effect label="AI" startTime="58725" endTime="58975"></Effect>
+        <Effect label="etc" startTime="58975" endTime="59025"></Effect>
+        <Effect label="FV" startTime="59025" endTime="59225"></Effect>
+        <Effect label="etc" startTime="59225" endTime="59275"></Effect>
+        <Effect label="O" startTime="59275" endTime="59475"></Effect>
+        <Effect label="etc" startTime="59475" endTime="59525"></Effect>
+        <Effect label="E" startTime="59525" endTime="59725"></Effect>
+        <Effect label="etc" startTime="59725" endTime="59775"></Effect>
+        <Effect label="O" startTime="59775" endTime="60050"></Effect>
+        <Effect label="etc" startTime="60050" endTime="60100"></Effect>
+        <Effect label="E" startTime="60100" endTime="60150"></Effect>
+        <Effect label="etc" startTime="60150" endTime="60200"></Effect>
+        <Effect label="etc" startTime="60200" endTime="60250"></Effect>
+        <Effect label="E" startTime="60250" endTime="60325"></Effect>
+        <Effect label="etc" startTime="60325" endTime="60375"></Effect>
+        <Effect label="O" startTime="60375" endTime="61000"></Effect>
+        <Effect label="etc" startTime="61000" endTime="61050"></Effect>
+        <Effect label="etc" startTime="61650" endTime="61700"></Effect>
+        <Effect label="AI" startTime="61700" endTime="61900"></Effect>
+        <Effect label="MBP" startTime="61900" endTime="61950"></Effect>
+        <Effect label="MBP" startTime="61950" endTime="62000"></Effect>
+        <Effect label="etc" startTime="62000" endTime="62050"></Effect>
+        <Effect label="AI" startTime="62050" endTime="62200"></Effect>
+        <Effect label="MBP" startTime="62200" endTime="62250"></Effect>
+        <Effect label="MBP" startTime="62250" endTime="62300"></Effect>
+        <Effect label="etc" startTime="62950" endTime="63000"></Effect>
+        <Effect label="AI" startTime="63000" endTime="63175"></Effect>
+        <Effect label="MBP" startTime="63175" endTime="63225"></Effect>
+        <Effect label="MBP" startTime="63225" endTime="63275"></Effect>
+        <Effect label="etc" startTime="63275" endTime="63325"></Effect>
+        <Effect label="AI" startTime="63325" endTime="63525"></Effect>
+        <Effect label="MBP" startTime="63525" endTime="63575"></Effect>
+        <Effect label="MBP" startTime="63575" endTime="63625"></Effect>
+        <Effect label="O" startTime="63625" endTime="63775"></Effect>
+        <Effect label="FV" startTime="63775" endTime="63950"></Effect>
+        <Effect label="E" startTime="63950" endTime="64100"></Effect>
+        <Effect label="etc" startTime="64100" endTime="64150"></Effect>
+        <Effect label="AI" startTime="64150" endTime="64300"></Effect>
+        <Effect label="etc" startTime="64300" endTime="64350"></Effect>
+        <Effect label="AI" startTime="64350" endTime="64400"></Effect>
+        <Effect label="L" startTime="64400" endTime="64475"></Effect>
+        <Effect label="etc" startTime="64475" endTime="64525"></Effect>
+        <Effect label="AI" startTime="64525" endTime="64700"></Effect>
+        <Effect label="FV" startTime="64700" endTime="64875"></Effect>
+        <Effect label="etc" startTime="64875" endTime="64925"></Effect>
+        <Effect label="O" startTime="64925" endTime="65425"></Effect>
+        <Effect label="L" startTime="65425" endTime="65475"></Effect>
+        <Effect label="E" startTime="65475" endTime="65550"></Effect>
+        <Effect label="etc" startTime="65550" endTime="65600"></Effect>
+        <Effect label="etc" startTime="65600" endTime="65650"></Effect>
+        <Effect label="O" startTime="65650" endTime="66250"></Effect>
+        <Effect label="etc" startTime="76275" endTime="76325"></Effect>
+        <Effect label="E" startTime="76325" endTime="76500"></Effect>
+        <Effect label="etc" startTime="76500" endTime="76550"></Effect>
+        <Effect label="MBP" startTime="76550" endTime="76600"></Effect>
+        <Effect label="AI" startTime="76600" endTime="76850"></Effect>
+        <Effect label="etc" startTime="76850" endTime="76900"></Effect>
+        <Effect label="etc" startTime="76900" endTime="76950"></Effect>
+        <Effect label="AI" startTime="76950" endTime="77075"></Effect>
+        <Effect label="FV" startTime="77075" endTime="77225"></Effect>
+        <Effect label="MBP" startTime="77225" endTime="77275"></Effect>
+        <Effect label="AI" startTime="77275" endTime="77450"></Effect>
+        <Effect label="etc" startTime="77450" endTime="77500"></Effect>
+        <Effect label="etc" startTime="77500" endTime="77550"></Effect>
+        <Effect label="AI" startTime="77550" endTime="77700"></Effect>
+        <Effect label="MBP" startTime="77700" endTime="77750"></Effect>
+        <Effect label="MBP" startTime="77750" endTime="77800"></Effect>
+        <Effect label="AI" startTime="77800" endTime="78050"></Effect>
+        <Effect label="etc" startTime="78050" endTime="78100"></Effect>
+        <Effect label="AI" startTime="78100" endTime="78350"></Effect>
+        <Effect label="etc" startTime="78350" endTime="78400"></Effect>
+        <Effect label="AI" startTime="78400" endTime="78600"></Effect>
+        <Effect label="etc" startTime="78600" endTime="78650"></Effect>
+        <Effect label="etc" startTime="78650" endTime="78700"></Effect>
+        <Effect label="AI" startTime="78700" endTime="79050"></Effect>
+        <Effect label="etc" startTime="79050" endTime="79100"></Effect>
+        <Effect label="O" startTime="79100" endTime="79175"></Effect>
+        <Effect label="L" startTime="79175" endTime="79275"></Effect>
+        <Effect label="etc" startTime="79275" endTime="79325"></Effect>
+        <Effect label="etc" startTime="79325" endTime="79375"></Effect>
+        <Effect label="AI" startTime="79375" endTime="79525"></Effect>
+        <Effect label="L" startTime="79525" endTime="79700"></Effect>
+        <Effect label="etc" startTime="79700" endTime="79750"></Effect>
+        <Effect label="etc" startTime="79750" endTime="79800"></Effect>
+        <Effect label="AI" startTime="79800" endTime="80050"></Effect>
+        <Effect label="etc" startTime="80050" endTime="80100"></Effect>
+        <Effect label="etc" startTime="80100" endTime="80150"></Effect>
+        <Effect label="E" startTime="80150" endTime="80400"></Effect>
+        <Effect label="FV" startTime="80400" endTime="80850"></Effect>
+        <Effect label="O" startTime="80850" endTime="81325"></Effect>
+        <Effect label="etc" startTime="81325" endTime="81375"></Effect>
+        <Effect label="FV" startTime="81375" endTime="81500"></Effect>
+        <Effect label="O" startTime="81500" endTime="81650"></Effect>
+        <Effect label="etc" startTime="81650" endTime="81700"></Effect>
+        <Effect label="WQ" startTime="81700" endTime="81750"></Effect>
+        <Effect label="E" startTime="81750" endTime="81800"></Effect>
+        <Effect label="etc" startTime="81800" endTime="81850"></Effect>
+        <Effect label="etc" startTime="81850" endTime="81900"></Effect>
+        <Effect label="E" startTime="81900" endTime="82225"></Effect>
+        <Effect label="MBP" startTime="82225" endTime="82275"></Effect>
+        <Effect label="L" startTime="82275" endTime="82425"></Effect>
+        <Effect label="E" startTime="82425" endTime="82575"></Effect>
+        <Effect label="etc" startTime="82575" endTime="82625"></Effect>
+        <Effect label="AI" startTime="82625" endTime="82775"></Effect>
+        <Effect label="etc" startTime="82775" endTime="82825"></Effect>
+        <Effect label="AI" startTime="82825" endTime="83175"></Effect>
+        <Effect label="etc" startTime="83175" endTime="83225"></Effect>
+        <Effect label="etc" startTime="83225" endTime="83275"></Effect>
+        <Effect label="AI" startTime="83275" endTime="83575"></Effect>
+        <Effect label="etc" startTime="83575" endTime="83625"></Effect>
+        <Effect label="etc" startTime="83625" endTime="83675"></Effect>
+        <Effect label="E" startTime="83675" endTime="83900"></Effect>
+        <Effect label="etc" startTime="83900" endTime="83950"></Effect>
+        <Effect label="etc" startTime="83950" endTime="84000"></Effect>
+        <Effect label="E" startTime="84000" endTime="84125"></Effect>
+        <Effect label="MBP" startTime="84125" endTime="84175"></Effect>
+        <Effect label="AI" startTime="84175" endTime="84325"></Effect>
+        <Effect label="etc" startTime="84325" endTime="84375"></Effect>
+        <Effect label="AI" startTime="84375" endTime="84525"></Effect>
+        <Effect label="etc" startTime="84525" endTime="84575"></Effect>
+        <Effect label="etc" startTime="84575" endTime="84625"></Effect>
+        <Effect label="U" startTime="84625" endTime="84825"></Effect>
+        <Effect label="etc" startTime="84825" endTime="84875"></Effect>
+        <Effect label="AI" startTime="84875" endTime="85200"></Effect>
+        <Effect label="etc" startTime="85200" endTime="85250"></Effect>
+        <Effect label="E" startTime="85250" endTime="85700"></Effect>
+        <Effect label="O" startTime="85700" endTime="86150"></Effect>
+        <Effect label="etc" startTime="86150" endTime="86200"></Effect>
+        <Effect label="O" startTime="86200" endTime="86700"></Effect>
+        <Effect label="FV" startTime="86700" endTime="87100"></Effect>
+        <Effect label="etc" startTime="87100" endTime="87150"></Effect>
+        <Effect label="O" startTime="87150" endTime="87525"></Effect>
+        <Effect label="etc" startTime="87525" endTime="87575"></Effect>
+        <Effect label="E" startTime="87575" endTime="87975"></Effect>
+        <Effect label="etc" startTime="87975" endTime="88025"></Effect>
+        <Effect label="AI" startTime="88025" endTime="88175"></Effect>
+        <Effect label="etc" startTime="88175" endTime="88225"></Effect>
+        <Effect label="O" startTime="88225" endTime="88575"></Effect>
+        <Effect label="MBP" startTime="88575" endTime="88625"></Effect>
+        <Effect label="AI" startTime="88625" endTime="89000"></Effect>
+        <Effect label="etc" startTime="89000" endTime="89050"></Effect>
+        <Effect label="WQ" startTime="89050" endTime="89125"></Effect>
+        <Effect label="AI" startTime="89125" endTime="89225"></Effect>
+        <Effect label="etc" startTime="89225" endTime="89275"></Effect>
+        <Effect label="AI" startTime="89275" endTime="89375"></Effect>
+        <Effect label="L" startTime="89375" endTime="89475"></Effect>
+        <Effect label="AI" startTime="89475" endTime="89600"></Effect>
+        <Effect label="FV" startTime="89600" endTime="89700"></Effect>
+        <Effect label="AI" startTime="89700" endTime="89875"></Effect>
+        <Effect label="etc" startTime="89875" endTime="89925"></Effect>
+        <Effect label="etc" startTime="89925" endTime="89975"></Effect>
+        <Effect label="E" startTime="89975" endTime="90325"></Effect>
+        <Effect label="etc" startTime="90325" endTime="90375"></Effect>
+        <Effect label="U" startTime="90375" endTime="90575"></Effect>
+        <Effect label="etc" startTime="90575" endTime="90625"></Effect>
+        <Effect label="MBP" startTime="90625" endTime="90675"></Effect>
+        <Effect label="E" startTime="90675" endTime="91600"></Effect>
+        <Effect label="AI" startTime="91600" endTime="91750"></Effect>
+        <Effect label="etc" startTime="91750" endTime="91800"></Effect>
+        <Effect label="etc" startTime="91800" endTime="91850"></Effect>
+        <Effect label="AI" startTime="91850" endTime="92000"></Effect>
+        <Effect label="etc" startTime="92000" endTime="92050"></Effect>
+        <Effect label="AI" startTime="92050" endTime="92200"></Effect>
+        <Effect label="L" startTime="92200" endTime="92350"></Effect>
+        <Effect label="etc" startTime="92350" endTime="92400"></Effect>
+        <Effect label="AI" startTime="92400" endTime="92550"></Effect>
+        <Effect label="etc" startTime="92550" endTime="92600"></Effect>
+        <Effect label="etc" startTime="92600" endTime="92650"></Effect>
+        <Effect label="E" startTime="92650" endTime="92925"></Effect>
+        <Effect label="etc" startTime="92925" endTime="92975"></Effect>
+        <Effect label="E" startTime="92975" endTime="93150"></Effect>
+        <Effect label="etc" startTime="93150" endTime="93200"></Effect>
+        <Effect label="U" startTime="93200" endTime="93275"></Effect>
+        <Effect label="etc" startTime="93275" endTime="93325"></Effect>
+        <Effect label="L" startTime="93325" endTime="93425"></Effect>
+        <Effect label="AI" startTime="93425" endTime="93500"></Effect>
+        <Effect label="FV" startTime="93500" endTime="93600"></Effect>
+        <Effect label="AI" startTime="93600" endTime="93850"></Effect>
+        <Effect label="etc" startTime="93850" endTime="93900"></Effect>
+        <Effect label="MBP" startTime="93900" endTime="93950"></Effect>
+        <Effect label="L" startTime="93950" endTime="94100"></Effect>
+        <Effect label="E" startTime="94100" endTime="94250"></Effect>
+        <Effect label="etc" startTime="94250" endTime="94300"></Effect>
+        <Effect label="AI" startTime="94300" endTime="94350"></Effect>
+        <Effect label="etc" startTime="94350" endTime="94400"></Effect>
+        <Effect label="etc" startTime="94400" endTime="94450"></Effect>
+        <Effect label="AI" startTime="94450" endTime="94600"></Effect>
+        <Effect label="etc" startTime="94600" endTime="94650"></Effect>
+        <Effect label="E" startTime="94650" endTime="94850"></Effect>
+        <Effect label="MBP" startTime="94850" endTime="94900"></Effect>
+        <Effect label="AI" startTime="94900" endTime="95200"></Effect>
+        <Effect label="etc" startTime="95200" endTime="95250"></Effect>
+        <Effect label="etc" startTime="95250" endTime="95300"></Effect>
+        <Effect label="U" startTime="95300" endTime="95575"></Effect>
+        <Effect label="AI" startTime="95575" endTime="95825"></Effect>
+        <Effect label="etc" startTime="95825" endTime="95875"></Effect>
+        <Effect label="MBP" startTime="95875" endTime="95925"></Effect>
+        <Effect label="E" startTime="95925" endTime="96875"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Random">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="21475"></Effect>
+        <Effect label="" startTime="21475" endTime="22900"></Effect>
+        <Effect label="" startTime="22900" endTime="82025"></Effect>
+        <Effect label="" startTime="82025" endTime="84650"></Effect>
+        <Effect label="" startTime="84650" endTime="87200"></Effect>
+        <Effect label="" startTime="87200" endTime="87625"></Effect>
+        <Effect label="" startTime="87625" endTime="88975"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Bars">
+      <EffectLayer>
+        <Effect label="1" startTime="925" endTime="3375"></Effect>
+        <Effect label="2" startTime="3375" endTime="5925"></Effect>
+        <Effect label="3" startTime="5925" endTime="8500"></Effect>
+        <Effect label="4" startTime="8500" endTime="11075"></Effect>
+        <Effect label="5" startTime="11075" endTime="13650"></Effect>
+        <Effect label="6" startTime="13650" endTime="16225"></Effect>
+        <Effect label="7" startTime="16225" endTime="18800"></Effect>
+        <Effect label="8" startTime="18800" endTime="21375"></Effect>
+        <Effect label="9" startTime="21375" endTime="23950"></Effect>
+        <Effect label="10" startTime="23950" endTime="26550"></Effect>
+        <Effect label="11" startTime="26550" endTime="29125"></Effect>
+        <Effect label="12" startTime="29125" endTime="31700"></Effect>
+        <Effect label="13" startTime="31700" endTime="34275"></Effect>
+        <Effect label="14" startTime="34275" endTime="36875"></Effect>
+        <Effect label="15" startTime="36875" endTime="39450"></Effect>
+        <Effect label="16" startTime="39450" endTime="42025"></Effect>
+        <Effect label="17" startTime="42025" endTime="44600"></Effect>
+        <Effect label="18" startTime="44600" endTime="47200"></Effect>
+        <Effect label="19" startTime="47200" endTime="49775"></Effect>
+        <Effect label="20" startTime="49775" endTime="52350"></Effect>
+        <Effect label="21" startTime="52350" endTime="54950"></Effect>
+        <Effect label="22" startTime="54950" endTime="57525"></Effect>
+        <Effect label="23" startTime="57525" endTime="60100"></Effect>
+        <Effect label="24" startTime="60100" endTime="62675"></Effect>
+        <Effect label="25" startTime="62675" endTime="65250"></Effect>
+        <Effect label="26" startTime="65250" endTime="67825"></Effect>
+        <Effect label="27" startTime="67825" endTime="70425"></Effect>
+        <Effect label="28" startTime="70425" endTime="73000"></Effect>
+        <Effect label="29" startTime="73000" endTime="75575"></Effect>
+        <Effect label="30" startTime="75575" endTime="78150"></Effect>
+        <Effect label="31" startTime="78150" endTime="80750"></Effect>
+        <Effect label="32" startTime="80750" endTime="83325"></Effect>
+        <Effect label="33" startTime="83325" endTime="85925"></Effect>
+        <Effect label="34" startTime="85925" endTime="88475"></Effect>
+        <Effect label="35" startTime="88475" endTime="91075"></Effect>
+        <Effect label="36" startTime="91075" endTime="93650"></Effect>
+        <Effect label="37" startTime="93650" endTime="96200"></Effect>
+        <Effect label="38" startTime="96200" endTime="98800"></Effect>
+        <Effect label="39" startTime="98800" endTime="98800"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Beats">
+      <EffectLayer>
+        <Effect label="4" startTime="325" endTime="925"></Effect>
+        <Effect label="1" startTime="925" endTime="1575"></Effect>
+        <Effect label="2" startTime="1575" endTime="2200"></Effect>
+        <Effect label="3" startTime="2200" endTime="2825"></Effect>
+        <Effect label="4" startTime="2825" endTime="3375"></Effect>
+        <Effect label="1" startTime="3375" endTime="3975"></Effect>
+        <Effect label="2" startTime="3975" endTime="4625"></Effect>
+        <Effect label="3" startTime="4625" endTime="5275"></Effect>
+        <Effect label="4" startTime="5275" endTime="5925"></Effect>
+        <Effect label="1" startTime="5925" endTime="6550"></Effect>
+        <Effect label="2" startTime="6550" endTime="7175"></Effect>
+        <Effect label="3" startTime="7175" endTime="7825"></Effect>
+        <Effect label="4" startTime="7825" endTime="8500"></Effect>
+        <Effect label="1" startTime="8500" endTime="9125"></Effect>
+        <Effect label="2" startTime="9125" endTime="9775"></Effect>
+        <Effect label="3" startTime="9775" endTime="10425"></Effect>
+        <Effect label="4" startTime="10425" endTime="11075"></Effect>
+        <Effect label="1" startTime="11075" endTime="11700"></Effect>
+        <Effect label="2" startTime="11700" endTime="12350"></Effect>
+        <Effect label="3" startTime="12350" endTime="13000"></Effect>
+        <Effect label="4" startTime="13000" endTime="13650"></Effect>
+        <Effect label="1" startTime="13650" endTime="14300"></Effect>
+        <Effect label="2" startTime="14300" endTime="14950"></Effect>
+        <Effect label="3" startTime="14950" endTime="15575"></Effect>
+        <Effect label="4" startTime="15575" endTime="16225"></Effect>
+        <Effect label="1" startTime="16225" endTime="16875"></Effect>
+        <Effect label="2" startTime="16875" endTime="17500"></Effect>
+        <Effect label="3" startTime="17500" endTime="18150"></Effect>
+        <Effect label="4" startTime="18150" endTime="18800"></Effect>
+        <Effect label="1" startTime="18800" endTime="19450"></Effect>
+        <Effect label="2" startTime="19450" endTime="20100"></Effect>
+        <Effect label="3" startTime="20100" endTime="20750"></Effect>
+        <Effect label="4" startTime="20750" endTime="21375"></Effect>
+        <Effect label="1" startTime="21375" endTime="22025"></Effect>
+        <Effect label="2" startTime="22025" endTime="22675"></Effect>
+        <Effect label="3" startTime="22675" endTime="23300"></Effect>
+        <Effect label="4" startTime="23300" endTime="23950"></Effect>
+        <Effect label="1" startTime="23950" endTime="24625"></Effect>
+        <Effect label="2" startTime="24625" endTime="25275"></Effect>
+        <Effect label="3" startTime="25275" endTime="25900"></Effect>
+        <Effect label="4" startTime="25900" endTime="26550"></Effect>
+        <Effect label="1" startTime="26550" endTime="27200"></Effect>
+        <Effect label="2" startTime="27200" endTime="27825"></Effect>
+        <Effect label="3" startTime="27825" endTime="28475"></Effect>
+        <Effect label="4" startTime="28475" endTime="29125"></Effect>
+        <Effect label="1" startTime="29125" endTime="29775"></Effect>
+        <Effect label="2" startTime="29775" endTime="30425"></Effect>
+        <Effect label="3" startTime="30425" endTime="31075"></Effect>
+        <Effect label="4" startTime="31075" endTime="31700"></Effect>
+        <Effect label="1" startTime="31700" endTime="32350"></Effect>
+        <Effect label="2" startTime="32350" endTime="33000"></Effect>
+        <Effect label="3" startTime="33000" endTime="33650"></Effect>
+        <Effect label="4" startTime="33650" endTime="34275"></Effect>
+        <Effect label="1" startTime="34275" endTime="34925"></Effect>
+        <Effect label="2" startTime="34925" endTime="35575"></Effect>
+        <Effect label="3" startTime="35575" endTime="36225"></Effect>
+        <Effect label="4" startTime="36225" endTime="36875"></Effect>
+        <Effect label="1" startTime="36875" endTime="37500"></Effect>
+        <Effect label="2" startTime="37500" endTime="38150"></Effect>
+        <Effect label="3" startTime="38150" endTime="38800"></Effect>
+        <Effect label="4" startTime="38800" endTime="39450"></Effect>
+        <Effect label="1" startTime="39450" endTime="40100"></Effect>
+        <Effect label="2" startTime="40100" endTime="40750"></Effect>
+        <Effect label="3" startTime="40750" endTime="41400"></Effect>
+        <Effect label="4" startTime="41400" endTime="42025"></Effect>
+        <Effect label="1" startTime="42025" endTime="42650"></Effect>
+        <Effect label="2" startTime="42650" endTime="43300"></Effect>
+        <Effect label="3" startTime="43300" endTime="43950"></Effect>
+        <Effect label="4" startTime="43950" endTime="44600"></Effect>
+        <Effect label="1" startTime="44600" endTime="45250"></Effect>
+        <Effect label="2" startTime="45250" endTime="45900"></Effect>
+        <Effect label="3" startTime="45900" endTime="46550"></Effect>
+        <Effect label="4" startTime="46550" endTime="47200"></Effect>
+        <Effect label="1" startTime="47200" endTime="47825"></Effect>
+        <Effect label="2" startTime="47825" endTime="48475"></Effect>
+        <Effect label="3" startTime="48475" endTime="49125"></Effect>
+        <Effect label="4" startTime="49125" endTime="49775"></Effect>
+        <Effect label="1" startTime="49775" endTime="50425"></Effect>
+        <Effect label="2" startTime="50425" endTime="51050"></Effect>
+        <Effect label="3" startTime="51050" endTime="51700"></Effect>
+        <Effect label="4" startTime="51700" endTime="52350"></Effect>
+        <Effect label="1" startTime="52350" endTime="52975"></Effect>
+        <Effect label="2" startTime="52975" endTime="53650"></Effect>
+        <Effect label="3" startTime="53650" endTime="54300"></Effect>
+        <Effect label="4" startTime="54300" endTime="54950"></Effect>
+        <Effect label="1" startTime="54950" endTime="55575"></Effect>
+        <Effect label="2" startTime="55575" endTime="56225"></Effect>
+        <Effect label="3" startTime="56225" endTime="56875"></Effect>
+        <Effect label="4" startTime="56875" endTime="57525"></Effect>
+        <Effect label="1" startTime="57525" endTime="58150"></Effect>
+        <Effect label="2" startTime="58150" endTime="58800"></Effect>
+        <Effect label="3" startTime="58800" endTime="59450"></Effect>
+        <Effect label="4" startTime="59450" endTime="60100"></Effect>
+        <Effect label="1" startTime="60100" endTime="60750"></Effect>
+        <Effect label="2" startTime="60750" endTime="61400"></Effect>
+        <Effect label="3" startTime="61400" endTime="62025"></Effect>
+        <Effect label="4" startTime="62025" endTime="62675"></Effect>
+        <Effect label="1" startTime="62675" endTime="63325"></Effect>
+        <Effect label="2" startTime="63325" endTime="63950"></Effect>
+        <Effect label="3" startTime="63950" endTime="64600"></Effect>
+        <Effect label="4" startTime="64600" endTime="65250"></Effect>
+        <Effect label="1" startTime="65250" endTime="65900"></Effect>
+        <Effect label="2" startTime="65900" endTime="66550"></Effect>
+        <Effect label="3" startTime="66550" endTime="67175"></Effect>
+        <Effect label="4" startTime="67175" endTime="67825"></Effect>
+        <Effect label="1" startTime="67825" endTime="68475"></Effect>
+        <Effect label="2" startTime="68475" endTime="69125"></Effect>
+        <Effect label="3" startTime="69125" endTime="69775"></Effect>
+        <Effect label="4" startTime="69775" endTime="70425"></Effect>
+        <Effect label="1" startTime="70425" endTime="71075"></Effect>
+        <Effect label="2" startTime="71075" endTime="71725"></Effect>
+        <Effect label="3" startTime="71725" endTime="72350"></Effect>
+        <Effect label="4" startTime="72350" endTime="73000"></Effect>
+        <Effect label="1" startTime="73000" endTime="73650"></Effect>
+        <Effect label="2" startTime="73650" endTime="74300"></Effect>
+        <Effect label="3" startTime="74300" endTime="74925"></Effect>
+        <Effect label="4" startTime="74925" endTime="75575"></Effect>
+        <Effect label="1" startTime="75575" endTime="76225"></Effect>
+        <Effect label="2" startTime="76225" endTime="76875"></Effect>
+        <Effect label="3" startTime="76875" endTime="77500"></Effect>
+        <Effect label="4" startTime="77500" endTime="78150"></Effect>
+        <Effect label="1" startTime="78150" endTime="78800"></Effect>
+        <Effect label="2" startTime="78800" endTime="79450"></Effect>
+        <Effect label="3" startTime="79450" endTime="80100"></Effect>
+        <Effect label="4" startTime="80100" endTime="80750"></Effect>
+        <Effect label="1" startTime="80750" endTime="81375"></Effect>
+        <Effect label="2" startTime="81375" endTime="82025"></Effect>
+        <Effect label="3" startTime="82025" endTime="82675"></Effect>
+        <Effect label="4" startTime="82675" endTime="83325"></Effect>
+        <Effect label="1" startTime="83325" endTime="83975"></Effect>
+        <Effect label="2" startTime="83975" endTime="84625"></Effect>
+        <Effect label="3" startTime="84625" endTime="85275"></Effect>
+        <Effect label="4" startTime="85275" endTime="85925"></Effect>
+        <Effect label="1" startTime="85925" endTime="86550"></Effect>
+        <Effect label="2" startTime="86550" endTime="87200"></Effect>
+        <Effect label="3" startTime="87200" endTime="87850"></Effect>
+        <Effect label="4" startTime="87850" endTime="88475"></Effect>
+        <Effect label="1" startTime="88475" endTime="89125"></Effect>
+        <Effect label="2" startTime="89125" endTime="89775"></Effect>
+        <Effect label="3" startTime="89775" endTime="90425"></Effect>
+        <Effect label="4" startTime="90425" endTime="91075"></Effect>
+        <Effect label="1" startTime="91075" endTime="91700"></Effect>
+        <Effect label="2" startTime="91700" endTime="92350"></Effect>
+        <Effect label="3" startTime="92350" endTime="93000"></Effect>
+        <Effect label="4" startTime="93000" endTime="93650"></Effect>
+        <Effect label="1" startTime="93650" endTime="94300"></Effect>
+        <Effect label="2" startTime="94300" endTime="94925"></Effect>
+        <Effect label="3" startTime="94925" endTime="95575"></Effect>
+        <Effect label="4" startTime="95575" endTime="96200"></Effect>
+        <Effect label="1" startTime="96200" endTime="96850"></Effect>
+        <Effect label="2" startTime="96850" endTime="97500"></Effect>
+        <Effect label="3" startTime="97500" endTime="98150"></Effect>
+        <Effect label="4" startTime="98150" endTime="98800"></Effect>
+        <Effect label="1" startTime="98800" endTime="98800"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer>
+        <Effect ref="0" name="Meteors" startTime="20750" endTime="31450" palette="0"/>
+        <Effect ref="1" name="SingleStrand" id="1" startTime="31450" endTime="38775" palette="1"/>
+        <Effect ref="2" name="SingleStrand" id="2" startTime="61050" endTime="65225" palette="2"/>
+        <Effect ref="3" name="SingleStrand" id="3" startTime="76475" endTime="82025" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="4" startTime="82025" endTime="84650" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="5" startTime="84650" endTime="97000" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="6" name="Pinwheel" startTime="325" endTime="10100" palette="0"/>
+        <Effect ref="7" name="Twinkle" id="1" startTime="10100" endTime="10750" palette="0"/>
+        <Effect ref="8" name="Marquee" id="2" startTime="11075" endTime="20775" palette="3"/>
+        <Effect ref="9" name="Shockwave" id="3" startTime="21475" endTime="22900" palette="0"/>
+        <Effect ref="10" name="Meteors" id="4" startTime="44550" endTime="45450" palette="4"/>
+        <Effect ref="11" name="Life" id="5" startTime="45825" endTime="49525" palette="5"/>
+        <Effect ref="12" name="Pinwheel" id="6" startTime="49800" endTime="50575" palette="0"/>
+        <Effect ref="12" name="Pinwheel" id="7" startTime="55025" endTime="55800" palette="0"/>
+        <Effect ref="12" name="Pinwheel" id="8" startTime="60275" endTime="61050" palette="0"/>
+        <Effect ref="13" name="Color Wash" id="9" startTime="61050" endTime="65225" palette="2"/>
+        <Effect ref="12" name="Pinwheel" id="10" startTime="65475" endTime="66250" palette="0"/>
+        <Effect ref="14" name="Spirals" id="11" startTime="66250" endTime="75575" palette="0"/>
+        <Effect ref="15" name="On" id="12" startTime="75575" endTime="76475" palette="0"/>
+        <Effect ref="16" name="Strobe" id="13" startTime="96000" endTime="99200" palette="0"/>
+        <Effect ref="17" name="Spirals" id="14" startTime="684650" endTime="688750" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="18" name="Spirals" startTime="66250" endTime="75575" palette="4"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="19" name="Pinwheel" startTime="325" endTime="10100" palette="1"/>
+        <Effect ref="20" name="Meteors" id="1" startTime="66250" endTime="76025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Front Door">
+      <EffectLayer>
+        <Effect ref="21" name="Shimmer" startTime="46625" endTime="46950" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="1" startTime="51750" endTime="52050" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="2" startTime="56975" endTime="57275" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="3" startTime="62225" endTime="62500" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Horizontals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="22" name="Pinwheel" startTime="31700" endTime="44550" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix3">
+      <EffectLayer>
+        <Effect ref="23" name="Pinwheel" startTime="31700" endTime="44550" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrixes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof and uprights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer>
+        <Effect ref="21" name="Shimmer" startTime="46300" endTime="46575" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="1" startTime="51425" endTime="51725" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="2" startTime="56650" endTime="56975" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="3" startTime="61900" endTime="62175" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="24" name="Twinkle" startTime="20750" endTime="26500" palette="0"/>
+        <Effect ref="25" name="Spirals" id="1" startTime="31675" endTime="44550" palette="6"/>
+        <Effect ref="26" name="Snowflakes" id="2" startTime="50575" endTime="54825" palette="1"/>
+        <Effect ref="13" name="Color Wash" id="3" startTime="61050" endTime="65225" palette="2"/>
+        <Effect ref="27" name="VU Meter" id="4" startTime="76475" endTime="84650" palette="7"/>
+        <Effect ref="28" name="Spirals" id="5" startTime="88975" endTime="97000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="29" name="On" startTime="20775" endTime="26525" palette="1"/>
+        <Effect ref="30" name="Spirals" id="1" startTime="88975" endTime="97000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="end of house">
+      <EffectLayer>
+        <Effect ref="21" name="Shimmer" startTime="47175" endTime="47450" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="1" startTime="52300" endTime="52575" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="2" startTime="57525" endTime="57850" palette="0"/>
+        <Effect ref="21" name="Shimmer" id="3" startTime="62775" endTime="63075" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="gutter 1">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
