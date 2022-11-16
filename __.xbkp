@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.37</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\xLights\Info.mp3</mediaFile>
+    <sequenceDuration>12.074</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#800080,C_BUTTON_Palette2=#FF00FF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#FFFFFF,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FFFFFF,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_SLIDER_Life_Count=50,E_SLIDER_Life_Seed=0,E_SLIDER_Life_Speed=10</Effect>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Turn Off,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Allow,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Your,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Traffic,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Lights,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Thru,E_TEXTCTRL_Text_Speed=10</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Tree" active="1"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Horizontals" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof and uprights" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixes" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut L" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut L Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut R" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut R Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut L" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut L Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut R" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut R Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Down Win L" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut L" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut L Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut R" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut R Mid" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut L Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut L Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut L Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut L Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut R Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut R Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut R Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win L Shut R Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut L Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut L Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut L Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut L Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut R Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut R Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut R Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Up Win R Shut R Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Down Win L Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Down Win L Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Down Win L Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Down Win L Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut L Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut L Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut L Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut L Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut R Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut R Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut R Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Dwn Win L Shut R Left" visible="1"/>
+    <Element collapsed="0" type="model" name="EverythingButTree" visible="1"/>
+    <Element collapsed="0" type="model" name="Verticals" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard1" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard2" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard3" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard4" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard5" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard6" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard7" visible="1"/>
+    <Element collapsed="0" type="model" name="Keyboard8" visible="1"/>
+    <Element collapsed="0" type="model" name="EverythingButArches" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="gutter 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="end of house" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Horizontals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof and uprights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrixes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut L Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut R Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut L Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut R Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Down Win L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut L Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut R Mid">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut L Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut L Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut L Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut L Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut R Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut R Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut R Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win L Shut R Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut L Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut L Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut L Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut L Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut R Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut R Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut R Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Up Win R Shut R Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Down Win L Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Down Win L Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Down Win L Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Down Win L Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut L Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut L Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut L Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut L Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut R Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut R Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut R Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dwn Win L Shut R Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="EverythingButTree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Verticals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Keyboard8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="EverythingButArches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="0" name="Life" selected="1" startTime="10300" endTime="12050" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="1" name="Color Wash" startTime="100" endTime="3100" palette="1"/>
+        <Effect ref="2" name="Text" id="1" startTime="3150" endTime="7400" palette="2"/>
+        <Effect ref="3" name="Text" id="2" startTime="7400" endTime="10300" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer>
+        <Effect ref="1" name="Color Wash" startTime="100" endTime="3100" palette="1"/>
+        <Effect ref="4" name="Text" id="1" startTime="3150" endTime="7400" palette="2"/>
+        <Effect ref="5" name="Text" id="2" startTime="7400" endTime="10300" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-3">
+      <EffectLayer>
+        <Effect ref="1" name="Color Wash" startTime="100" endTime="3100" palette="1"/>
+        <Effect ref="6" name="Text" id="1" startTime="3150" endTime="7400" palette="2"/>
+        <Effect ref="7" name="Text" id="2" startTime="7400" endTime="10300" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="gutter 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="end of house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Door">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

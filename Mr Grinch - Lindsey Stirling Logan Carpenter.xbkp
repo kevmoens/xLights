@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.47</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\xLights\Mr Grinch - Lindsey Stirling Logan Carpenter.mp3</mediaFile>
+    <sequenceDuration>168.263</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#996633,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FD8008,C_BUTTON_Palette7=#800080,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FD8008,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=207,E_SLIDER_Strobe_Duration=8,E_SLIDER_Strobe_Type=1,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=142,E_SLIDER_Strobe_Duration=27,E_SLIDER_Strobe_Type=1</Effect>
+    <Effect>T_TEXTCTRL_Fadein=1</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview</Effect>
+    <Effect>T_TEXTCTRL_Fadein=.0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>T_TEXTCTRL_Fadeout=1 </Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0 </Effect>
+    <Effect>T_TEXTCTRL_Fadeout=.5 </Effect>
+    <Effect>T_TEXTCTRL_Fadeout=.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=Old Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=104,E_SLIDER_Pinwheel_Arms=12,E_SLIDER_Pinwheel_Speed=4,E_SLIDER_Pinwheel_Thickness=100,E_SLIDER_Pinwheel_Twist=180</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=23,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-2,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-21,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=17,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 18 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=17,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-32,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-25,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=1,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=25,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-23,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=2,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=2,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=30,E_SLIDER_Pictures_StartScale=30,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\mrgrinch.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=80,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=2,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=2</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=36,E_SLIDER_Spirals_Thickness=9,E_TEXTCTRL_Spirals_Movement=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale Keep Aspect Ratio,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Empty_hole.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=30,E_SLIDER_Pictures_StartScale=30,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Garlic.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=80,E_SLIDER_Pictures_StartScale=80,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\halloween.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-24,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=39,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=-8,E_SLIDER_PicturesYC=24,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\mrgrinch.png,E_SLIDER_PicturesXC=10,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=80,E_SLIDER_Pictures_StartScale=80,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=26,E_TEXTCTRL_Text=LA,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=-10,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=13,E_SLIDER_PicturesYC=-2,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-5,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=7,E_TEXTCTRL_Text=LA,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-5,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-18,E_TEXTCTRL_Text=LA,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=18,E_SLIDER_PicturesYC=-20,E_SLIDER_Pictures_EndScale=2,E_SLIDER_Pictures_StartScale=2,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=29,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Imported\Mr Grinch Remastered Curtis March\Think Tank Sharing\Grinch_Remastered\_lost\Bad_Banana.png,E_SLIDER_PicturesXC=-15,E_SLIDER_PicturesYC=-20,E_SLIDER_Pictures_EndScale=3,E_SLIDER_Pictures_StartScale=3,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 24 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=23,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 24 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-2,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-21,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 24 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=17,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="7602281" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Tree" active="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Horizontals" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof and uprights" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixes" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="gutter 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="end of house" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="17800" endTime="17900" palette="0"/>
+        <Effect ref="1" name="Strobe" id="1" startTime="19800" endTime="22350" palette="1"/>
+        <Effect ref="2" name="On" id="2" startTime="63450" endTime="63800" palette="2"/>
+        <Effect ref="2" name="On" id="3" startTime="63800" endTime="64150" palette="0"/>
+        <Effect ref="2" name="On" id="4" startTime="64150" endTime="64450" palette="3"/>
+        <Effect ref="2" name="On" id="5" startTime="64450" endTime="64800" palette="4"/>
+        <Effect ref="3" name="Curtain" id="6" startTime="65800" endTime="67750" palette="0"/>
+        <Effect ref="4" name="Curtain" id="7" startTime="71150" endTime="74000" palette="0"/>
+        <Effect ref="5" name="Curtain" id="8" startTime="97450" endTime="103550" palette="0"/>
+        <Effect ref="2" name="On" id="9" startTime="105750" endTime="106800" palette="5"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="6" name="Strobe" startTime="103550" endTime="105750" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="2150" endTime="3200" palette="0"/>
+        <Effect ref="7" name="On" id="1" startTime="16150" endTime="17150" palette="0"/>
+        <Effect ref="8" name="On" id="2" startTime="46450" endTime="47350" palette="0"/>
+        <Effect ref="8" name="On" id="3" startTime="51450" endTime="52600" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="54800" endTime="60100" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="70450" endTime="71150" palette="3"/>
+        <Effect ref="0" name="On" id="6" startTime="73950" endTime="76100" palette="6"/>
+        <Effect ref="0" name="On" id="7" startTime="91050" endTime="91800" palette="3"/>
+        <Effect ref="0" name="On" id="8" startTime="94900" endTime="97000" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof">
+      <EffectLayer>
+        <Effect ref="9" name="On" startTime="1150" endTime="3200" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="3400" endTime="3550" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="4500" endTime="4800" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="5150" endTime="5450" palette="0"/>
+        <Effect ref="10" name="On" id="4" startTime="13500" endTime="14500" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="15450" endTime="15650" palette="0"/>
+        <Effect ref="10" name="On" id="6" startTime="18800" endTime="19800" palette="7"/>
+        <Effect ref="0" name="On" id="7" startTime="24050" endTime="24150" palette="0"/>
+        <Effect ref="0" name="On" id="8" startTime="25150" endTime="25450" palette="0"/>
+        <Effect ref="0" name="On" id="9" startTime="25800" endTime="26150" palette="0"/>
+        <Effect ref="0" name="On" id="10" startTime="26850" endTime="27150" palette="0"/>
+        <Effect ref="0" name="On" id="11" startTime="29400" endTime="29500" palette="0"/>
+        <Effect ref="0" name="On" id="12" startTime="30500" endTime="30800" palette="0"/>
+        <Effect ref="0" name="On" id="13" startTime="31150" endTime="31500" palette="0"/>
+        <Effect ref="0" name="On" id="14" startTime="32200" endTime="32500" palette="0"/>
+        <Effect ref="0" name="On" id="15" startTime="34650" endTime="34800" palette="0"/>
+        <Effect ref="0" name="On" id="16" startTime="35750" endTime="36100" palette="0"/>
+        <Effect ref="0" name="On" id="17" startTime="36450" endTime="36750" palette="0"/>
+        <Effect ref="0" name="On" id="18" startTime="37400" endTime="37750" palette="0"/>
+        <Effect ref="0" name="On" id="19" startTime="38450" endTime="38800" palette="0"/>
+        <Effect ref="8" name="On" id="20" startTime="44500" endTime="46450" palette="0"/>
+        <Effect ref="8" name="On" id="21" startTime="48450" endTime="49100" palette="0"/>
+        <Effect ref="0" name="On" id="22" startTime="50700" endTime="50800" palette="0"/>
+        <Effect ref="0" name="On" id="23" startTime="54800" endTime="55550" palette="0"/>
+        <Effect ref="0" name="On" id="24" startTime="69350" endTime="71150" palette="0"/>
+        <Effect ref="0" name="On" id="25" startTime="73950" endTime="76100" palette="8"/>
+        <Effect ref="2" name="On" id="26" startTime="84450" endTime="85600" palette="0"/>
+        <Effect ref="0" name="On" id="27" startTime="89950" endTime="91800" palette="0"/>
+        <Effect ref="0" name="On" id="28" startTime="94900" endTime="97000" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Horizontals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof and uprights">
+      <EffectLayer>
+        <Effect ref="11" name="Curtain" startTime="5500" endTime="7500" palette="3"/>
+        <Effect ref="0" name="On" id="1" startTime="16850" endTime="17150" palette="3"/>
+        <Effect ref="2" name="On" id="2" startTime="21800" endTime="22150" palette="0"/>
+        <Effect ref="2" name="On" id="3" startTime="22150" endTime="22450" palette="0"/>
+        <Effect ref="12" name="On" id="4" startTime="22450" endTime="22700" palette="0"/>
+        <Effect ref="2" name="On" id="5" startTime="22700" endTime="23050" palette="0"/>
+        <Effect ref="13" name="On" id="6" startTime="23150" endTime="23350" palette="0"/>
+        <Effect ref="2" name="On" id="7" startTime="27800" endTime="28150" palette="0"/>
+        <Effect ref="2" name="On" id="8" startTime="28150" endTime="28450" palette="0"/>
+        <Effect ref="12" name="On" id="9" startTime="28450" endTime="28700" palette="0"/>
+        <Effect ref="2" name="On" id="10" startTime="28700" endTime="29050" palette="0"/>
+        <Effect ref="13" name="On" id="11" startTime="29150" endTime="29350" palette="0"/>
+        <Effect ref="2" name="On" id="12" startTime="33150" endTime="33450" palette="0"/>
+        <Effect ref="2" name="On" id="13" startTime="33450" endTime="33800" palette="0"/>
+        <Effect ref="12" name="On" id="14" startTime="33800" endTime="34150" palette="0"/>
+        <Effect ref="2" name="On" id="15" startTime="34150" endTime="34450" palette="0"/>
+        <Effect ref="13" name="On" id="16" startTime="34500" endTime="34700" palette="0"/>
+        <Effect ref="5" name="Curtain" id="17" startTime="39500" endTime="43100" palette="0"/>
+        <Effect ref="2" name="On" id="18" startTime="49100" endTime="49450" palette="0"/>
+        <Effect ref="2" name="On" id="19" startTime="49450" endTime="49750" palette="0"/>
+        <Effect ref="12" name="On" id="20" startTime="49750" endTime="50100" palette="0"/>
+        <Effect ref="2" name="On" id="21" startTime="50100" endTime="50400" palette="0"/>
+        <Effect ref="2" name="On" id="22" startTime="76900" endTime="84200" palette="0"/>
+        <Effect ref="2" name="On" id="23" startTime="86800" endTime="87100" palette="0"/>
+        <Effect ref="2" name="On" id="24" startTime="87350" endTime="87650" palette="0"/>
+        <Effect ref="2" name="On" id="25" startTime="87950" endTime="89050" palette="0"/>
+        <Effect ref="2" name="On" id="26" startTime="92150" endTime="92450" palette="0"/>
+        <Effect ref="2" name="On" id="27" startTime="92700" endTime="93000" palette="0"/>
+        <Effect ref="2" name="On" id="28" startTime="93500" endTime="94600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrixes">
+      <EffectLayer>
+        <Effect ref="14" name="Pinwheel" startTime="52650" endTime="54800" palette="9"/>
+        <Effect ref="15" name="Text" id="1" startTime="55500" endTime="60000" palette="0"/>
+        <Effect ref="15" name="Text" id="2" startTime="86750" endTime="89800" palette="0"/>
+        <Effect ref="15" name="Text" id="3" startTime="92050" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="16" name="Text" startTime="56000" endTime="60000" palette="0"/>
+        <Effect ref="16" name="Text" id="1" startTime="87250" endTime="89800" palette="0"/>
+        <Effect ref="16" name="Text" id="2" startTime="92550" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="17" name="Text" startTime="56600" endTime="60000" palette="0"/>
+        <Effect ref="18" name="Text" id="1" startTime="87850" endTime="89800" palette="0"/>
+        <Effect ref="18" name="Text" id="2" startTime="93150" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="19" name="Text" startTime="57150" endTime="60000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="20" name="Text" startTime="57800" endTime="60000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="21" name="Text" startTime="58450" endTime="60000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="gutter 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer>
+        <Effect ref="22" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="23" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="23" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer>
+        <Effect ref="22" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="23" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="23" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer>
+        <Effect ref="22" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="23" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="23" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-1 Outside">
+      <EffectLayer>
+        <Effect ref="22" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="23" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="23" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="end of house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="5" name="Curtain" startTime="10700" endTime="12800" palette="0"/>
+        <Effect ref="24" name="Pictures" id="1" startTime="16200" endTime="17050" palette="7"/>
+        <Effect ref="25" name="Curtain" id="2" startTime="21550" endTime="23350" palette="3"/>
+        <Effect ref="26" name="Pictures" id="3" startTime="26200" endTime="28000" palette="7"/>
+        <Effect ref="27" name="Butterfly" id="4" startTime="34550" endTime="38800" palette="1"/>
+        <Effect ref="28" name="Spirals" id="5" startTime="39500" endTime="43550" palette="9"/>
+        <Effect ref="29" name="Pictures" id="6" startTime="46800" endTime="48450" palette="10"/>
+        <Effect ref="30" name="Pictures" id="7" startTime="50000" endTime="52650" palette="0"/>
+        <Effect ref="14" name="Pinwheel" id="8" startTime="52650" endTime="54800" palette="9"/>
+        <Effect ref="0" name="On" id="9" startTime="69350" endTime="71150" palette="0"/>
+        <Effect ref="31" name="Pictures" id="10" startTime="73950" endTime="76100" palette="8"/>
+        <Effect ref="32" name="Pictures" id="11" startTime="78100" endTime="84400" palette="9"/>
+        <Effect ref="0" name="On" id="12" startTime="89950" endTime="91800" palette="0"/>
+        <Effect ref="31" name="Pictures" id="13" startTime="94900" endTime="97000" palette="8"/>
+        <Effect ref="33" name="Pictures" id="14" startTime="107000" endTime="108000" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="34" name="Pictures" startTime="44650" endTime="45650" palette="0"/>
+        <Effect ref="35" name="On" id="1" startTime="50000" endTime="52650" palette="0"/>
+        <Effect ref="36" name="Text" id="2" startTime="59000" endTime="60750" palette="10"/>
+        <Effect ref="0" name="On" id="3" startTime="73950" endTime="76100" palette="8"/>
+        <Effect ref="37" name="Pictures" id="4" startTime="78450" endTime="84400" palette="9"/>
+        <Effect ref="0" name="On" id="5" startTime="94900" endTime="97000" palette="8"/>
+        <Effect ref="38" name="Pictures" id="6" startTime="107300" endTime="108000" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="39" name="Text" startTime="59500" endTime="60750" palette="10"/>
+        <Effect ref="40" name="Pictures" id="1" startTime="78750" endTime="84400" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="41" name="Text" startTime="60100" endTime="60750" palette="10"/>
+        <Effect ref="42" name="Pictures" id="1" startTime="79100" endTime="84400" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="43" name="Pictures" startTime="79450" endTime="84400" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="54800" endTime="60800" palette="0"/>
+        <Effect ref="44" name="Pictures" id="1" startTime="80000" endTime="84400" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="40" name="Pictures" startTime="80150" endTime="84400" palette="9"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="8" name="On" startTime="46950" endTime="48450" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="45" name="Pictures" startTime="21800" endTime="22150" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="14" name="Pinwheel" startTime="52650" endTime="54800" palette="9"/>
+        <Effect ref="46" name="Text" id="1" startTime="55500" endTime="60000" palette="0"/>
+        <Effect ref="46" name="Text" id="2" startTime="86750" endTime="89800" palette="0"/>
+        <Effect ref="46" name="Text" id="3" startTime="92050" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="47" name="Text" startTime="56000" endTime="60000" palette="0"/>
+        <Effect ref="47" name="Text" id="1" startTime="87250" endTime="89800" palette="0"/>
+        <Effect ref="47" name="Text" id="2" startTime="92550" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="48" name="Text" startTime="56600" endTime="60000" palette="0"/>
+        <Effect ref="48" name="Text" id="1" startTime="87850" endTime="89800" palette="0"/>
+        <Effect ref="48" name="Text" id="2" startTime="93150" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="19" name="Text" startTime="57150" endTime="60000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="20" name="Text" startTime="57800" endTime="60000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="21" name="Text" startTime="58450" endTime="60000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Door">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

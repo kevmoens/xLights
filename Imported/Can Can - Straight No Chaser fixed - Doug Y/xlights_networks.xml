@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-87H2L8L">
+  <network ComPort="192.168.5.150" BaudRate="1" NetworkType="E131" Description="Canes Left" MaxChannels="432"/>
+  <network ComPort="192.168.5.150" BaudRate="2" NetworkType="E131" Description="Canes Right" MaxChannels="432"/>
+  <network ComPort="192.168.5.150" BaudRate="3" NetworkType="E131" Description="Arches Left" MaxChannels="300"/>
+  <network ComPort="192.168.5.150" BaudRate="4" NetworkType="E131" Description="Arches Right" MaxChannels="300"/>
+  <network ComPort="192.168.5.150" BaudRate="5" NetworkType="E131" Description="Singing Bulbs" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="6" NetworkType="E131" Description="Singing Bulbs " MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="7" NetworkType="E131" Description="Singing Bulbs" MaxChannels="267"/>
+  <network ComPort="192.168.5.150" BaudRate="8" NetworkType="E131" Description="Megatree" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="9" NetworkType="E131" Description="Megatree" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="10" NetworkType="E131" Description="Megatree" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="11" NetworkType="E131" Description="Megatree" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="12" NetworkType="E131" Description="Megatree" MaxChannels="360"/>
+  <network ComPort="192.168.5.150" BaudRate="13" NetworkType="E131" Description="star and floods" MaxChannels="135"/>
+  <network ComPort="192.168.5.139" BaudRate="14" NetworkType="E131" Description="P10 Matrix" MaxChannels="512" NumUniverses="12"/>
+  <network ComPort="192.168.5.150" BaudRate="26" NetworkType="E131" Description="Roof and Uprights" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="27" NetworkType="E131" Description="Roof and Uprights" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="28" NetworkType="E131" Description="Windows" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="29" NetworkType="E131" Description="Windows" MaxChannels="276"/>
+  <network ComPort="192.168.5.150" BaudRate="30" NetworkType="E131" Description="Columns Left" MaxChannels="277"/>
+  <network ComPort="192.168.5.150" BaudRate="31" NetworkType="E131" Description="Columns Left" MaxChannels="455"/>
+  <network ComPort="192.168.5.150" BaudRate="33" NetworkType="E131" Description="Column right" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="34" NetworkType="E131" Description="Column right" MaxChannels="222"/>
+  <network ComPort="192.168.5.150" BaudRate="35" NetworkType="E131" Description="Roof upper" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="36" NetworkType="E131" Description="Roof upper" MaxChannels="510"/>
+  <network ComPort="192.168.5.150" BaudRate="37" NetworkType="E131" Description="Roof upper" MaxChannels="54"/>
+</Networks>

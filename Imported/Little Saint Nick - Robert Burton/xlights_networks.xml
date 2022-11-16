@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-J98PEJS">
+  <network ComPort="10.10.20.100" BaudRate="1" NetworkType="E131" Description="Falcon F16v2 - LOR controllers &amp;amp; Floods" MaxChannels="510"/>
+  <network ComPort="10.10.20.120" BaudRate="2" NetworkType="E131" Description="Tune To Sign" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="3" NetworkType="E131" Description="Falcon F16v3 - Arches" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="4" NetworkType="E131" Description="Falcon F16v3 - Arches" MaxChannels="510"/>
+  <network ComPort="10.10.20.120" BaudRate="5" NetworkType="E131" Description="e682 - Mega Tree 1" MaxChannels="510"/>
+  <network ComPort="10.10.20.120" BaudRate="6" NetworkType="E131" Description="e682 - Mega Tree 1" MaxChannels="510"/>
+  <network ComPort="10.10.20.120" BaudRate="7" NetworkType="E131" Description="e682 - Mega Tree 1" MaxChannels="420"/>
+  <network ComPort="10.10.20.120" BaudRate="7" NetworkType="E131" Enabled="No" MaxChannels="90"/>
+  <network ComPort="10.10.20.130" BaudRate="8" NetworkType="E131" Description="e682 - Mega Tree 2" MaxChannels="510"/>
+  <network ComPort="10.10.20.130" BaudRate="9" NetworkType="E131" Description="e682 - Mega Tree 2" MaxChannels="510"/>
+  <network ComPort="10.10.20.130" BaudRate="10" NetworkType="E131" Description="e68 2 - Mega Tree 2 and Mega Tree Star" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="11" NetworkType="E131" Description="Falcon F16v3 - Snowflakes on diff board" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="12" NetworkType="E131" Description="Falcon F16v3 - Snowflakes on diff board" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="13" NetworkType="E131" Description="Falcon F16v2 - Windows" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="14" NetworkType="E131" Description="Falcon F16v2 - Windows and Gutters" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="15" NetworkType="E131" Description="Falcon Falcon F16v2 - Windows and Gutters" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="16" NetworkType="E131" Description="Falcon F16v2 - Windows and Gutters" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="17" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="18" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="19" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="20" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="21" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="22" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="23" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="24" NetworkType="E131" Description="Falcon F16v2 - Window Snowflakes" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="25" NetworkType="E131" Description="Falcon F16v2 - Window Snowflakes" MaxChannels="510"/>
+  <network ComPort="10.10.20.100" BaudRate="26" NetworkType="E131" Description="Falcon F16v2 - Window Snowflakes" MaxChannels="384"/>
+  <network ComPort="10.10.20.100" BaudRate="26" NetworkType="E131" Description="Not Used" MaxChannels="126"/>
+  <network ComPort="10.10.20.110" BaudRate="27" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="28" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="29" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="30" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="31" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="32" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="33" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="34" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="35" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="36" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="37" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="38" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="39" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="40" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="41" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="42" NetworkType="E131" Description="Falcon F16v3 - Front Trees, Tree Stars and Gridline" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="43" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="44" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="45" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="46" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.10.20.110" BaudRate="47" NetworkType="E131" MaxChannels="510"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+</Networks>

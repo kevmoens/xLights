@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-TND6L51">
+  <network ComPort="192.168.1.207" BaudRate="1" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="2" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="3" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="4" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="5" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="6" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="7" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="8" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="9" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="10" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="11" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="12" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="13" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="14" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="15" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="16" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="17" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="18" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="19" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="20" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="21" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="22" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.207" BaudRate="23" NetworkType="E131" Description="FALCON F16-1" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="1" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="2" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="3" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="4" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="5" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="6" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="7" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="8" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="9" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="10" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="11" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="12" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="13" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="14" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="15" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="16" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="17" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="18" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="19" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="20" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="21" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="22" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="23" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="24" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="25" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="26" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="27" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="28" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="29" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.208" BaudRate="30" NetworkType="E131" Description="FALCON F16-2" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="1" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="2" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="3" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="4" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="5" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="6" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="7" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="8" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="9" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="10" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="11" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.206" BaudRate="12" NetworkType="E131" Description="E682" MaxChannels="510"/>
+  <network ComPort="192.168.1.209" BaudRate="1" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="2" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="3" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="4" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="5" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="6" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="7" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="8" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="9" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="10" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="11" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="12" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="13" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="14" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="15" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="16" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="17" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+  <network ComPort="192.168.1.209" BaudRate="18" NetworkType="E131" Description="FPP" MaxChannels="512"/>
+</Networks>

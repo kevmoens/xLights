@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.51</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>G:\xLights\Show\2020\Christmas\Ferris Bueller Go Home\Ferris Bueller Go Home.mp3</mediaFile>
+    <sequenceDuration>23.545</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_SLIDER_SparkleFrequency=100</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=250,E_SLIDER_Shockwave_End_Width=200,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=1,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=200,E_SLIDER_Shockwave_End_Width=100,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=1,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=100,E_SLIDER_Shockwave_End_Width=50,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=1,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=G:\xLights\Show\2020\Christmas\Ferris Bueller Go Home\Ferris Bueller Go Home.mp4,E_TEXTCTRL_Duration=0:23.423,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Speed=1.00,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=.25</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="7012449" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,2020 Master View,Temp" active="1"/>
+    <Element collapsed="0" type="model" name="Whole House" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole House Offset" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole House Special" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="All (No Faces)" visible="1"/>
+    <Element collapsed="0" type="model" name="Entire House Face" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything but Garage Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything but P5 Matrix and Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything But P5 Windows and Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Yard Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Group" visible="1"/>
+    <Element collapsed="0" type="model" name="P5 Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Window P5 Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Window P5 and Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches and Mini Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="P5 3x2 Left" visible="1"/>
+    <Element collapsed="0" type="model" name="P5 3x2 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="P5 Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Mega Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Mega Tree Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches 1-2-7-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches 3-4-5-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches 1-3-5-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches 2-4-6-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Floodlights" visible="1"/>
+    <Element collapsed="0" type="model" name="Floodlight-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Floodlight-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Stars 1-2-7-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Stars 1-3-5-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Stars 2-4-6-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Stars 3-4-5-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Star 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees 1-2-3-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees 1-2-7-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees 1-3-5-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees 2-4-6-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees 3-4-5-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Trees 5-6-7-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree 8" visible="1"/>
+    <Element collapsed="0" type="model" name="House Borders" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Lines" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tune To Sign" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="20925"></Effect>
+        <Effect label="" startTime="20925" endTime="21150"></Effect>
+        <Effect label="" startTime="21150" endTime="21250"></Effect>
+        <Effect label="" startTime="21250" endTime="23425"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Whole House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole House Offset">
+      <EffectLayer>
+        <Effect ref="0" name="Shockwave" startTime="20925" endTime="23425" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Shockwave" startTime="21150" endTime="23425" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Whole House Special">
+      <EffectLayer>
+        <Effect ref="2" name="Shockwave" startTime="21250" endTime="23425" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All (No Faces)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Entire House Face">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything but Garage Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything but P5 Matrix and Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything But P5 Windows and Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Yard Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="P5 Group">
+      <EffectLayer>
+        <Effect ref="3" name="Video" startTime="0" endTime="21250" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Window P5 Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window P5 and Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches and Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="P5 3x2 Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="P5 3x2 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="P5 Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mega Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mega Tree Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 1-2-7-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 3-4-5-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 1-3-5-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 2-4-6-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floodlights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floodlight-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floodlight-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Stars 1-2-7-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Stars 1-3-5-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Stars 2-4-6-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Stars 3-4-5-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Star 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees 1-2-3-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees 1-2-7-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees 1-3-5-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees 2-4-6-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees 3-4-5-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Trees 5-6-7-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Borders">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Lines">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tune To Sign">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

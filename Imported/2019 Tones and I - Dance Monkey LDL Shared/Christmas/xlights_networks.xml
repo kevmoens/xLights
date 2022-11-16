@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="LAPTOP-4FABU7IS">
+  <network ComPort="192.168.1.10" BaudRate="1" NetworkType="E131" Description="F48 DRB-01 (Doorway) Doorway" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="2" NetworkType="E131" Description="F48 DRB-01 (Doorway) Left Planter Box" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="3" NetworkType="E131" Description="F48 DRB-01 (Doorway) Right Planter Box" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="4" NetworkType="E131" Description="F48 DRB-01 (Doorway) Star Doorway" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="5" NetworkType="E131" Description="F48 DRB-02 (Left Wall &amp;amp; Roof)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="6" NetworkType="E131" Description="F48 DRB-02 (Left ChromaFlakes 1,2)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="7" NetworkType="E131" Description="F48 DRB-02 (Spiral Tree 1)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="8" NetworkType="E131" Description="F48 DRB-02 (Spiral Tree 2)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="9" NetworkType="E131" Description="F48 DRB-03 (Left Wall Tree)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="10" NetworkType="E131" Description="F48 DRB-03 (Left Wall Tree)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="11" NetworkType="E131" Description="F48 DRB-03 (Left Wall Tree)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="12" NetworkType="E131" Description="F48 DRB-03 (Left Wall Tree Star)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="13" NetworkType="E131" Description="F48 DRB-04 (Right Wall &amp;amp; Roof)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="14" NetworkType="E131" Description="F48 DRB-04 (Right Roof ChromaFlakes 4,3)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="15" NetworkType="E131" Description="F48 DRB-04 (Spiral Tree 3)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="16" NetworkType="E131" Description="F48 DRB-04 (Spiral Tree 4)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="17" NetworkType="E131" Description="F48 DRB-05 (Right Wall Tree)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="18" NetworkType="E131" Description="F48 DRB-05 (Right Wall Tree)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="19" NetworkType="E131" Description="F48 DRB-05 (Right Wall Tree)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="20" NetworkType="E131" Description="F48 DRB-05 (Right Wall Tree Star)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="21" NetworkType="E131" Description="F48 DRB-06 (Arches 2,1) - Garden Bed " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="22" NetworkType="E131" Description="F48 DRB-06 (Arches 3,4) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="23" NetworkType="E131" Description="F48 DRB-06 (Sticks 2&amp;amp;1) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="24" NetworkType="E131" Description="F48 DRB-06 (Sticks 3,4,5) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="25" NetworkType="E131" Description="F48 DRB-07 (Garden Bed Outline) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="26" NetworkType="E131" Description="F48 DRB-07 (Candy Canes 1,2,3) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="27" NetworkType="E131" Description="F48 DRB-07 (Candy Canes 4,5,6) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="28" NetworkType="E131" Description="F48 DRB-07 (Candy Canes) 7,8 &amp;amp; FloodLights) - Garden Bed" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="29" NetworkType="E131" Description="F48 DRB-08 (ChromaFlakes 5,6) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="30" NetworkType="E131" Description="F48 DRB-08 (ChromaFlakes 7,8) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="31" NetworkType="E131" Description="F48 DRB-08 (Left Fence Outline)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="32" NetworkType="E131" Description="F48 DRB-08 (Flood) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="33" NetworkType="E131" Description="F48 DRB-09 (MiniTree 1) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="34" NetworkType="E131" Description="F48 DRB-09 (MiniTree 2) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="35" NetworkType="E131" Description="F48 DRB-09 (MiniTree 3) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="36" NetworkType="E131" Description="F48 DRB-09 (MiniTree 4) - Left Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="37" NetworkType="E131" Description="F48 DRB-10 (ChromaFlake 9,10) - Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="38" NetworkType="E131" Description="F48 DRB-10 (ChromaFlakes 11,12) - Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="39" NetworkType="E131" Description="F48 DRB-10 (Right Fence Outline)" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="40" NetworkType="E131" Description="F48 DRB-10 (Flood) -  Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="41" NetworkType="E131" Description="F48 DRB-11 (MiniTree 5) - Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="42" NetworkType="E131" Description="F48 DRB-11 (MiniTree 6) - Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="43" NetworkType="E131" Description="F48 DRB-11 (MiniTree 7) - Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="44" NetworkType="E131" Description="F48 DRB-11 (MiniTree 8) - Right Fence" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="45" NetworkType="E131" Description="F48 DRB-12 (FlakeTree) - Flakes24 1,2,3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="46" NetworkType="E131" Description="F48 DRB-12 (FlakeTree) - Flakes24 1,2,3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="47" NetworkType="E131" Description="F48 DRB-12 (FlakeTree) - Flakes24 1,2,3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.10" BaudRate="48" NetworkType="E131" Description="F48 DRB-12 (FlakeTree) - Flakes24 1,2,3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.20" BaudRate="201" NetworkType="E131" Description="F16V3 MegaTree" MaxChannels="510" NumUniverses="32" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="500" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="501" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="502" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="503" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="504" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="505" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="506" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="507" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="508" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="509" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="510" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="511" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="512" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="513" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="514" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="515" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="516" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="517" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="518" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="519" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="520" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="521" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="522" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.50" BaudRate="523" NetworkType="E131" Description="Tune_To_Sign_4x2" MaxChannels="512" AutoStartChannels="false"/>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+</Networks>
