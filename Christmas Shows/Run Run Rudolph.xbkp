@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.22</version>
+    <version>2022.23</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -61,41 +61,40 @@
     <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-11.00x-10.00x111.00x110.00,E_TEXTCTRL_Eff_On_End=0</Effect>
     <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=20.0</Effect>
     <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=300,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4.9</Effect>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=0,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=-10,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=45,E_SLIDER_Shockwave_End_Radius=91,E_SLIDER_Shockwave_End_Width=10,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=43</Effect>
     <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=1,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=3,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=0,E_SLIDER_Galaxy_End_Radius=0,E_SLIDER_Galaxy_End_Width=8,E_SLIDER_Galaxy_Revolutions=3600,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=10,E_SLIDER_Galaxy_Start_Width=20</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=30,E_VALUECURVE_Spirals_Movement=Active=TRUE|Id=ID_VALUECURVE_Spirals_Movement|Min=-200.00|Max=200.00|P1=10.00|RV=TRUE|</Effect>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Santa Sleigh Transparent.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-10,E_SLIDER_Pictures_EndScale=147,E_SLIDER_Pictures_StartScale=147,E_TEXTCTRL_Pictures_FrameRateAdj=7.5,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>B_CUSTOM_SubBuffer=-1.51x-2.34x104.84x100.39x0.00x0.00,B_SLIDER_XRotation=179,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=-15,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=7.2,E_TEXTCTRL_Pictures_Speed=4.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=-1.51x-2.34x104.84x100.39,B_SLIDER_XRotation=179,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=-15,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=7.2,E_TEXTCTRL_Pictures_Speed=4.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=75,E_SLIDER_Plasma_Style=1</Effect>
     <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-32.00x10.00x137.00x115.00,E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Santa Face,E_CHOICE_Faces_TimingTrack=New Timing,E_TEXTCTRL_Faces_TransparentBlack=0</Effect>
     <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-1.46x-7.11x104.31x106.03x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Poppy,E_CHOICE_Faces_TimingTrack=New Timing</Effect>
     <Effect>B_CUSTOM_SubBuffer=50.00x-2.00x61.00x104.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=64.00x-3.00x75.00x103.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=19.00x2.00x30.00x108.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
-    <Effect>B_CUSTOM_SubBuffer=63.00x-2.00x74.00x104.00x0.00x0.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
-    <Effect>B_CUSTOM_SubBuffer=-95.13x-46.69x100.00x100.00x0.00x0.00,E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=up-right,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/rudolph-001.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.2,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=63.00x-2.00x74.00x104.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
+    <Effect>B_CUSTOM_SubBuffer=-95.13x-46.69x100.00x100.00,E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=up-right,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/rudolph-001.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.2,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=-1.51x-2.34x104.84x100.39x0.00x0.00,B_SLIDER_XRotation=179,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=-15,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=7.2,E_TEXTCTRL_Pictures_Speed=4.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=154,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Speed=8,E_SLIDER_Pinwheel_Thickness=61,E_SLIDER_Pinwheel_Twist=-175</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=154,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Speed=8,E_SLIDER_Pinwheel_Thickness=61,E_SLIDER_Pinwheel_Twist=-175</Effect>
     <Effect>B_CUSTOM_SubBuffer=-1.00x18.00x99.00x118.00,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=MERRY  CHRISTMAS,E_TEXTCTRL_Text_Speed=10</Effect>
     <Effect>B_CUSTOM_SubBuffer=0.11x-1.10x100.00x100.34,E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=17,E_SLIDER_Spirals_Thickness=38,E_TEXTCTRL_Spirals_Movement=-5.5</Effect>
-    <Effect>B_CUSTOM_SubBuffer=0.00x0.00x99.54x101.48x0.00x0.00,E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=112,E_SLIDER_Strobe_Duration=1,E_SLIDER_Strobe_Type=1</Effect>
-    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-36.00x16.00x133.00x84.00x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Poppy,E_CHOICE_Faces_Phoneme=rest</Effect>
-    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-36.00x16.00x133.00x84.00x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Poppy,E_CHOICE_Faces_TimingTrack=New Timing</Effect>
-    <Effect>B_CUSTOM_SubBuffer=-9.00x9.00x125.00x110.00x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Poppy,E_CHOICE_Faces_TimingTrack=New Timing</Effect>
+    <Effect>B_CUSTOM_SubBuffer=0.00x0.00x99.54x101.48,E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=112,E_SLIDER_Strobe_Duration=1,E_SLIDER_Strobe_Type=1</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-36.00x16.00x133.00x84.00,E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Santa Face,E_CHOICE_Faces_Phoneme=rest,E_TEXTCTRL_Faces_TransparentBlack=0</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-36.00x16.00x133.00x84.00,E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Santa Face,E_CHOICE_Faces_TimingTrack=New Timing,E_TEXTCTRL_Faces_TransparentBlack=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=-9.00x9.00x125.00x110.00x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Santa Face,E_CHOICE_Faces_TimingTrack=New Timing</Effect>
     <Effect>B_CUSTOM_SubBuffer=0.00x-3.00x89.74x72.99x0.00x0.00,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=up,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=5.1,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>B_CUSTOM_SubBuffer=-4.00x-16.00x96.00x84.00x0.00x0.00,B_SLIDER_Rotations=10,B_SLIDER_ZoomQuality=2,B_VALUECURVE_Rotation=Active=TRUE|Id=ID_VALUECURVE_Rotation|Type=Sine|Min=0.00|Max=100.00|P2=10.00|P3=50.00|P4=25.00|WRAP=TRUE|RV=TRUE|,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Santa Sleigh Transparent.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-10,E_SLIDER_Pictures_EndScale=147,E_SLIDER_Pictures_StartScale=147,E_TEXTCTRL_Pictures_FrameRateAdj=9.6,E_TEXTCTRL_Pictures_Speed=5.5,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=-4.00x-16.00x96.00x84.00,B_SLIDER_Rotations=10,B_SLIDER_ZoomQuality=2,B_VALUECURVE_Rotation=Active=TRUE|Id=ID_VALUECURVE_Rotation|Type=Sine|Min=0.00|Max=100.00|P2=10.00|P3=50.00|P4=25.00|WRAP=TRUE|RV=TRUE|,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Santa Sleigh Transparent.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-10,E_SLIDER_Pictures_EndScale=147,E_SLIDER_Pictures_StartScale=147,E_TEXTCTRL_Pictures_FrameRateAdj=9.6,E_TEXTCTRL_Pictures_Speed=5.5,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=14,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1</Effect>
     <Effect>B_SLIDER_XRotation=176,E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=30,E_TEXTCTRL_Spirals_Movement=2.0</Effect>
     <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=1,E_SLIDER_Strobe_Duration=7,E_SLIDER_Strobe_Type=1</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Santa-Running-Right.gif,E_SLIDER_PicturesXC=-89,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=80,E_SLIDER_Pictures_StartScale=80,E_TEXTCTRL_Pictures_FrameRateAdj=2.0,E_TEXTCTRL_Pictures_Speed=3.9,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>B_CUSTOM_SubBuffer=44.00x-1.00x58.00x102.00,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=4.0</Effect>
-    <Effect>B_CUSTOM_SubBuffer=-1.51x-2.34x104.84x100.39x0.00x0.00,B_SLIDER_XRotation=179,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=-15,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=7.2,E_TEXTCTRL_Pictures_Speed=7.8,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=-1.51x-2.34x104.84x100.39,B_SLIDER_XRotation=179,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=-15,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=7.2,E_TEXTCTRL_Pictures_Speed=7.8,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>B_CUSTOM_SubBuffer=24.00x-4.00x36.00x107.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=36.00x-4.00x48.00x107.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=40.00x-12.00x52.00x115.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
-    <Effect>B_CUSTOM_SubBuffer=24.00x-4.00x36.00x107.00x0.00x0.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=0.00x-13.00x100.00x87.00,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=MERRY  CHRISTMAS,E_TEXTCTRL_Text_Speed=10</Effect>
     <Effect>B_CUSTOM_SubBuffer=0.00x0.00x99.54x101.48,E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=-33,E_SLIDER_Spirals_Thickness=22,E_TEXTCTRL_Spirals_Movement=-5.5</Effect>
     <Effect>E_TEXTCTRL_On_Transparency=8</Effect>
@@ -103,8 +102,7 @@
     <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=5,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1</Effect>
     <Effect>B_CUSTOM_SubBuffer=-4.00x-3.00x10.00x100.00,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Custom Horz,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
     <Effect>B_CUSTOM_SubBuffer=87.00x-3.00x100.00x99.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
-    <Effect>B_CUSTOM_SubBuffer=76.00x1.00x89.00x103.00x0.00x0.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
-    <Effect>B_CUSTOM_SubBuffer=87.00x-3.00x100.00x99.00x0.00x0.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
+    <Effect>B_CUSTOM_SubBuffer=76.00x1.00x89.00x103.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=86.59x-3.00x100.00x100.00,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Custom Horz,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
   </EffectDB>
   <DataLayers>
@@ -1365,7 +1363,7 @@
         <Effect ref="10" name="Shockwave" id="11" startTime="99800" endTime="101800" palette="11"/>
         <Effect ref="10" name="Shockwave" id="12" startTime="101800" endTime="103900" palette="12"/>
         <Effect ref="11" name="SingleStrand" id="13" startTime="103900" endTime="105950" palette="13"/>
-        <Effect ref="17" name="SingleStrand" id="14" startTime="105950" endTime="112150" palette="13"/>
+        <Effect ref="12" name="SingleStrand" id="14" startTime="105950" endTime="112150" palette="13"/>
         <Effect ref="13" name="On" id="15" startTime="112150" endTime="118800" palette="9"/>
         <Effect ref="14" name="On" id="16" startTime="118800" endTime="119900" palette="9"/>
         <Effect ref="15" name="SingleStrand" id="17" startTime="119900" endTime="139900" palette="7"/>
@@ -1385,18 +1383,18 @@
     </Element>
     <Element type="model" name="Roof">
       <EffectLayer>
-        <Effect ref="18" name="Shockwave" startTime="27350" endTime="29000" palette="1"/>
-        <Effect ref="18" name="Shockwave" id="1" startTime="29000" endTime="30250" palette="1"/>
-        <Effect ref="18" name="Shockwave" id="2" startTime="30250" endTime="31900" palette="1"/>
+        <Effect ref="17" name="Shockwave" startTime="27350" endTime="29000" palette="1"/>
+        <Effect ref="17" name="Shockwave" id="1" startTime="29000" endTime="30250" palette="1"/>
+        <Effect ref="17" name="Shockwave" id="2" startTime="30250" endTime="31900" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Roof and uprights">
       <EffectLayer>
-        <Effect ref="19" name="SingleStrand" startTime="0" endTime="850" palette="0"/>
-        <Effect ref="19" name="SingleStrand" id="1" startTime="1250" endTime="2500" palette="0"/>
-        <Effect ref="19" name="SingleStrand" id="2" startTime="2900" endTime="4150" palette="0"/>
-        <Effect ref="19" name="SingleStrand" id="3" startTime="4550" endTime="5000" palette="0"/>
-        <Effect ref="19" name="SingleStrand" id="4" startTime="5400" endTime="5850" palette="0"/>
+        <Effect ref="18" name="SingleStrand" startTime="0" endTime="850" palette="0"/>
+        <Effect ref="18" name="SingleStrand" id="1" startTime="1250" endTime="2500" palette="0"/>
+        <Effect ref="18" name="SingleStrand" id="2" startTime="2900" endTime="4150" palette="0"/>
+        <Effect ref="18" name="SingleStrand" id="3" startTime="4550" endTime="5000" palette="0"/>
+        <Effect ref="18" name="SingleStrand" id="4" startTime="5400" endTime="5850" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Single Line">
@@ -1407,22 +1405,22 @@
     </Element>
     <Element type="model" name="Tree">
       <EffectLayer>
-        <Effect ref="20" name="Galaxy" startTime="7500" endTime="11200" palette="6"/>
-        <Effect ref="21" name="Spirals" id="1" startTime="11200" endTime="14100" palette="7"/>
-        <Effect ref="22" name="Pictures" id="2" startTime="14100" endTime="18650" palette="7"/>
-        <Effect ref="23" name="Pictures" id="3" startTime="33950" endTime="37300" palette="14"/>
-        <Effect ref="24" name="Plasma" id="4" startTime="40600" endTime="42250" palette="10"/>
-        <Effect ref="25" name="Faces" id="5" startTime="42250" endTime="44400" palette="14"/>
-        <Effect ref="24" name="Plasma" id="6" startTime="44400" endTime="46350" palette="10"/>
-        <Effect ref="26" name="Faces" id="7" startTime="46500" endTime="51200" palette="14"/>
-        <Effect ref="27" name="Lightning" id="8" startTime="51350" endTime="51750" palette="15"/>
-        <Effect ref="28" name="Lightning" id="9" startTime="51750" endTime="52150" palette="15"/>
-        <Effect ref="29" name="Lightning" id="10" startTime="52150" endTime="52550" palette="10"/>
-        <Effect ref="30" name="Lightning" id="11" startTime="52600" endTime="53000" palette="10"/>
-        <Effect ref="31" name="Pictures" id="12" startTime="53200" endTime="58750" palette="16"/>
-        <Effect ref="24" name="Plasma" id="13" startTime="58800" endTime="60450" palette="10"/>
-        <Effect ref="23" name="Pictures" id="14" startTime="73250" endTime="77000" palette="14"/>
-        <Effect ref="23" name="Pictures" id="15" startTime="77000" endTime="79050" palette="14"/>
+        <Effect ref="19" name="Galaxy" startTime="7500" endTime="11200" palette="6"/>
+        <Effect ref="20" name="Spirals" id="1" startTime="11200" endTime="14100" palette="7"/>
+        <Effect ref="21" name="Pictures" id="2" startTime="14100" endTime="18650" palette="7"/>
+        <Effect ref="22" name="Pictures" id="3" startTime="33950" endTime="37300" palette="14"/>
+        <Effect ref="23" name="Plasma" id="4" startTime="40600" endTime="42250" palette="10"/>
+        <Effect ref="24" name="Faces" id="5" startTime="42250" endTime="44400" palette="14"/>
+        <Effect ref="23" name="Plasma" id="6" startTime="44400" endTime="46350" palette="10"/>
+        <Effect ref="25" name="Faces" selected="1" id="7" startTime="46500" endTime="51200" palette="14"/>
+        <Effect ref="26" name="Lightning" id="8" startTime="51350" endTime="51750" palette="15"/>
+        <Effect ref="27" name="Lightning" id="9" startTime="51750" endTime="52150" palette="15"/>
+        <Effect ref="28" name="Lightning" id="10" startTime="52150" endTime="52550" palette="10"/>
+        <Effect ref="29" name="Lightning" id="11" startTime="52600" endTime="53000" palette="10"/>
+        <Effect ref="30" name="Pictures" id="12" startTime="53250" endTime="58800" palette="16"/>
+        <Effect ref="23" name="Plasma" id="13" startTime="58800" endTime="60450" palette="10"/>
+        <Effect ref="31" name="Pictures" id="14" startTime="73250" endTime="77000" palette="14"/>
+        <Effect ref="22" name="Pictures" id="15" startTime="77000" endTime="79050" palette="14"/>
         <Effect ref="32" name="Pinwheel" id="16" startTime="79050" endTime="81950" palette="17"/>
         <Effect ref="33" name="Pinwheel" id="17" startTime="81950" endTime="84850" palette="17"/>
         <Effect ref="34" name="Text" id="18" startTime="84850" endTime="92300" palette="18"/>
@@ -1432,13 +1430,13 @@
         <Effect ref="38" name="Faces" id="22" startTime="101800" endTime="104750" palette="9"/>
         <Effect ref="39" name="Faces" id="23" startTime="104750" endTime="110900" palette="20"/>
         <Effect ref="40" name="Pictures" id="24" startTime="112350" endTime="118750" palette="19"/>
-        <Effect ref="41" name="Pictures" selected="1" id="25" startTime="120050" endTime="139900" palette="7"/>
+        <Effect ref="41" name="Pictures" id="25" startTime="120050" endTime="139900" palette="7"/>
         <Effect ref="42" name="Strobe" id="26" startTime="139900" endTime="145750" palette="10"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="43" name="Spirals" startTime="11200" endTime="14100" palette="7"/>
         <Effect ref="44" name="Strobe" id="1" startTime="14100" endTime="18650" palette="0"/>
-        <Effect ref="22" name="Pictures" id="2" startTime="20700" endTime="25300" palette="7"/>
+        <Effect ref="21" name="Pictures" id="2" startTime="20700" endTime="25300" palette="7"/>
         <Effect ref="45" name="Pictures" id="3" startTime="26950" endTime="29850" palette="7"/>
         <Effect ref="46" name="Bars" id="4" startTime="29850" endTime="33550" palette="14"/>
         <Effect ref="47" name="Pictures" id="5" startTime="37300" endTime="40600" palette="14"/>
@@ -1446,30 +1444,30 @@
         <Effect ref="48" name="Lightning" id="7" startTime="51350" endTime="51750" palette="10"/>
         <Effect ref="49" name="Lightning" id="8" startTime="51750" endTime="52150" palette="10"/>
         <Effect ref="50" name="Lightning" id="9" startTime="52150" endTime="52550" palette="10"/>
-        <Effect ref="51" name="Lightning" id="10" startTime="52600" endTime="53000" palette="10"/>
+        <Effect ref="48" name="Lightning" id="10" startTime="52600" endTime="53000" palette="10"/>
         <Effect ref="2" name="On" id="11" startTime="53250" endTime="58800" palette="21"/>
-        <Effect ref="22" name="Pictures" id="12" startTime="60450" endTime="65050" palette="7"/>
+        <Effect ref="21" name="Pictures" id="12" startTime="60450" endTime="65050" palette="7"/>
         <Effect ref="45" name="Pictures" id="13" startTime="66250" endTime="69150" palette="7"/>
         <Effect ref="46" name="Bars" id="14" startTime="69150" endTime="72850" palette="14"/>
-        <Effect ref="52" name="Text" id="15" startTime="84850" endTime="92300" palette="19"/>
-        <Effect ref="53" name="Spirals" id="16" startTime="92300" endTime="97250" palette="22"/>
+        <Effect ref="51" name="Text" id="15" startTime="84850" endTime="92300" palette="19"/>
+        <Effect ref="52" name="Spirals" id="16" startTime="92300" endTime="97250" palette="22"/>
         <Effect ref="2" name="On" id="17" startTime="101000" endTime="104750" palette="20"/>
-        <Effect ref="54" name="On" id="18" startTime="104750" endTime="110900" palette="5"/>
-        <Effect ref="55" name="On" id="19" startTime="120050" endTime="139900" palette="0"/>
+        <Effect ref="53" name="On" id="18" startTime="104750" endTime="110900" palette="5"/>
+        <Effect ref="54" name="On" id="19" startTime="120050" endTime="139900" palette="0"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="56" name="Snowflakes" startTime="20700" endTime="25300" palette="0"/>
-        <Effect ref="57" name="Bars" id="1" startTime="29850" endTime="33550" palette="14"/>
-        <Effect ref="58" name="Lightning" id="2" startTime="51350" endTime="51750" palette="10"/>
-        <Effect ref="58" name="Lightning" id="3" startTime="51750" endTime="52150" palette="15"/>
-        <Effect ref="59" name="Lightning" id="4" startTime="52150" endTime="52550" palette="10"/>
-        <Effect ref="60" name="Lightning" id="5" startTime="52600" endTime="53000" palette="10"/>
-        <Effect ref="56" name="Snowflakes" id="6" startTime="60450" endTime="65050" palette="0"/>
-        <Effect ref="57" name="Bars" id="7" startTime="69150" endTime="72850" palette="14"/>
+        <Effect ref="55" name="Snowflakes" startTime="20700" endTime="25300" palette="0"/>
+        <Effect ref="56" name="Bars" id="1" startTime="29850" endTime="33550" palette="14"/>
+        <Effect ref="57" name="Lightning" id="2" startTime="51350" endTime="51750" palette="10"/>
+        <Effect ref="57" name="Lightning" id="3" startTime="51750" endTime="52150" palette="15"/>
+        <Effect ref="58" name="Lightning" id="4" startTime="52150" endTime="52550" palette="10"/>
+        <Effect ref="57" name="Lightning" id="5" startTime="52600" endTime="53000" palette="10"/>
+        <Effect ref="55" name="Snowflakes" id="6" startTime="60450" endTime="65050" palette="0"/>
+        <Effect ref="56" name="Bars" id="7" startTime="69150" endTime="72850" palette="14"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="61" name="Bars" startTime="29850" endTime="33550" palette="14"/>
-        <Effect ref="61" name="Bars" id="1" startTime="69150" endTime="72850" palette="14"/>
+        <Effect ref="59" name="Bars" startTime="29850" endTime="33550" palette="14"/>
+        <Effect ref="59" name="Bars" id="1" startTime="69150" endTime="72850" palette="14"/>
       </EffectLayer>
       <EffectLayer/>
       <EffectLayer/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.17</version>
+    <version>2022.23</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -69,7 +69,7 @@
     <Effect>B_CUSTOM_SubBuffer=-1.51x-2.34x104.84x100.39,B_SLIDER_XRotation=179,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=1,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=right,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Images/Rudolph blk bkgrd.jpg,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=-15,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=7.2,E_TEXTCTRL_Pictures_Speed=4.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=75,E_SLIDER_Plasma_Style=1</Effect>
     <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-32.00x10.00x137.00x115.00,E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Santa Face,E_CHOICE_Faces_TimingTrack=New Timing,E_TEXTCTRL_Faces_TransparentBlack=0</Effect>
-    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-1.46x-7.11x104.31x106.03x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Santa Face,E_CHOICE_Faces_TimingTrack=New Timing</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,B_CUSTOM_SubBuffer=-1.46x-7.11x104.31x106.03x0.00x0.00,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Poppy,E_CHOICE_Faces_TimingTrack=New Timing</Effect>
     <Effect>B_CUSTOM_SubBuffer=50.00x-2.00x61.00x104.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=64.00x-3.00x75.00x103.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
     <Effect>B_CUSTOM_SubBuffer=19.00x2.00x30.00x108.00,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=2</Effect>
@@ -1412,7 +1412,7 @@
         <Effect ref="23" name="Plasma" id="4" startTime="40600" endTime="42250" palette="10"/>
         <Effect ref="24" name="Faces" id="5" startTime="42250" endTime="44400" palette="14"/>
         <Effect ref="23" name="Plasma" id="6" startTime="44400" endTime="46350" palette="10"/>
-        <Effect ref="25" name="Faces" selected="1" id="7" startTime="46500" endTime="51200" palette="14"/>
+        <Effect ref="25" name="Faces" id="7" startTime="46500" endTime="51200" palette="14"/>
         <Effect ref="26" name="Lightning" id="8" startTime="51350" endTime="51750" palette="15"/>
         <Effect ref="27" name="Lightning" id="9" startTime="51750" endTime="52150" palette="15"/>
         <Effect ref="28" name="Lightning" id="10" startTime="52150" endTime="52550" palette="10"/>

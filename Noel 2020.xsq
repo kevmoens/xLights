@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.16.1</version>
+    <version>2022.23</version>
     <author>Troy Sutherland</author>
     <author-email></author-email>
     <author-website></author-website>
@@ -47,8 +47,9 @@
     <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=37,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=37,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.7</Effect>
     <Effect>E_CHOICE_Garlands_Direction=Left,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0,T_TEXTCTRL_Fadeout=0.7</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=39,E_TEXTCTRL_Eff_On_Start=11</Effect>
     <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0,T_TEXTCTRL_Fadein=0.7,T_TEXTCTRL_Fadeout=0.7</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale Keep Aspect Ratio,E_FILEPICKER_Pictures_Filename=C:\Users\xmasl\Desktop\Xlights Show 2020\Noel\mp4\425-4251546_transparent-nativity-silhouette-png-simple-nativity-scene-silhouette.png,E_SLIDER_PicturesXC=-7,E_SLIDER_PicturesYC=-21,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=0.7</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=/Users/kmac/Documents/xLights/Baby-clipart-cute-baby-pencil-and-in-color.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-21,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=0.7</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=-200,E_SLIDER_Text_XStart=118,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-19,E_TEXTCTRL_Text=NOEL,E_TEXTCTRL_Text_Speed=4,T_TEXTCTRL_Fadeout=0.7</Effect>
     <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Heart,E_SLIDER_Ripple_Thickness=1,E_TEXTCTRL_Ripple_Cycles=1.0,T_TEXTCTRL_Fadein=0.7,T_TEXTCTRL_Fadeout=0.7</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=up once,E_CHOICE_Scaling=Scale Keep Aspect Ratio,E_FILEPICKER_Pictures_Filename=C:\Users\xmasl\Desktop\Xlights Show 2020\Noel\mp4\Earth.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=1,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
@@ -874,7 +875,7 @@
         <Effect ref="8" name="Galaxy" id="11" startTime="94100" endTime="97350" palette="6"/>
         <Effect ref="9" name="Garlands" id="12" startTime="97500" endTime="101000" palette="7"/>
         <Effect ref="8" name="Galaxy" id="13" startTime="101000" endTime="104250" palette="6"/>
-        <Effect ref="9" name="Garlands" selected="1" id="14" startTime="104450" endTime="107850" palette="7"/>
+        <Effect ref="9" name="Garlands" id="14" startTime="104450" endTime="107850" palette="7"/>
         <Effect ref="5" name="Strobe" id="15" startTime="107850" endTime="114800" palette="4"/>
         <Effect ref="13" name="SingleStrand" id="16" startTime="134750" endTime="138350" palette="5"/>
         <Effect ref="14" name="SingleStrand" id="17" startTime="138800" endTime="142300" palette="5"/>
@@ -892,14 +893,15 @@
     </Element>
     <Element type="model" name="Arches">
       <EffectLayer>
-        <Effect ref="16" name="Morph" startTime="30900" endTime="36950" palette="5"/>
-        <Effect ref="6" name="Curtain" id="1" startTime="38550" endTime="43600" palette="5"/>
-        <Effect ref="13" name="SingleStrand" id="2" startTime="51150" endTime="54750" palette="5"/>
-        <Effect ref="14" name="SingleStrand" id="3" startTime="54850" endTime="58200" palette="5"/>
-        <Effect ref="16" name="Morph" id="4" startTime="121300" endTime="127350" palette="5"/>
-        <Effect ref="6" name="Curtain" id="5" startTime="128950" endTime="134000" palette="5"/>
-        <Effect ref="13" name="SingleStrand" id="6" startTime="134750" endTime="138350" palette="5"/>
-        <Effect ref="14" name="SingleStrand" id="7" startTime="138450" endTime="141800" palette="5"/>
+        <Effect ref="16" name="On" selected="1" startTime="300" endTime="17150" palette="5"/>
+        <Effect ref="17" name="Morph" id="1" startTime="30900" endTime="36950" palette="5"/>
+        <Effect ref="6" name="Curtain" id="2" startTime="38550" endTime="43600" palette="5"/>
+        <Effect ref="13" name="SingleStrand" id="3" startTime="51150" endTime="54750" palette="5"/>
+        <Effect ref="14" name="SingleStrand" id="4" startTime="54850" endTime="58200" palette="5"/>
+        <Effect ref="17" name="Morph" id="5" startTime="121300" endTime="127350" palette="5"/>
+        <Effect ref="6" name="Curtain" id="6" startTime="128950" endTime="134000" palette="5"/>
+        <Effect ref="13" name="SingleStrand" id="7" startTime="134750" endTime="138350" palette="5"/>
+        <Effect ref="14" name="SingleStrand" id="8" startTime="138450" endTime="141800" palette="5"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Arches-3">
@@ -961,23 +963,23 @@
     </Element>
     <Element type="model" name="Tree">
       <EffectLayer>
-        <Effect ref="17" name="Pictures" startTime="38350" endTime="43400" palette="5"/>
-        <Effect ref="18" name="Text" id="1" startTime="51200" endTime="54750" palette="5"/>
-        <Effect ref="18" name="Text" id="2" startTime="54850" endTime="58200" palette="5"/>
-        <Effect ref="18" name="Text" id="3" startTime="65300" endTime="68550" palette="5"/>
-        <Effect ref="18" name="Text" id="4" startTime="68750" endTime="72100" palette="5"/>
-        <Effect ref="19" name="Ripple" id="5" startTime="76300" endTime="78000" palette="9"/>
-        <Effect ref="20" name="Pictures" id="6" startTime="78000" endTime="81100" palette="8"/>
-        <Effect ref="21" name="Pictures" id="7" startTime="81100" endTime="84900" palette="8"/>
-        <Effect ref="22" name="Text" id="8" startTime="85700" endTime="89800" palette="5"/>
-        <Effect ref="18" name="Text" id="9" startTime="134800" endTime="138350" palette="5"/>
-        <Effect ref="18" name="Text" id="10" startTime="138450" endTime="141800" palette="5"/>
-        <Effect ref="18" name="Text" id="11" startTime="148900" endTime="152150" palette="0"/>
-        <Effect ref="18" name="Text" id="12" startTime="152350" endTime="155700" palette="0"/>
-        <Effect ref="19" name="Ripple" id="13" startTime="159650" endTime="161350" palette="9"/>
-        <Effect ref="20" name="Pictures" id="14" startTime="161350" endTime="164450" palette="8"/>
-        <Effect ref="21" name="Pictures" id="15" startTime="164450" endTime="168250" palette="8"/>
-        <Effect ref="22" name="Text" id="16" startTime="169050" endTime="173150" palette="5"/>
+        <Effect ref="18" name="Pictures" startTime="38350" endTime="43400" palette="5"/>
+        <Effect ref="19" name="Text" id="1" startTime="51200" endTime="54750" palette="5"/>
+        <Effect ref="19" name="Text" id="2" startTime="54850" endTime="58200" palette="5"/>
+        <Effect ref="19" name="Text" id="3" startTime="65300" endTime="68550" palette="5"/>
+        <Effect ref="19" name="Text" id="4" startTime="68750" endTime="72100" palette="5"/>
+        <Effect ref="20" name="Ripple" id="5" startTime="76300" endTime="78000" palette="9"/>
+        <Effect ref="21" name="Pictures" id="6" startTime="78000" endTime="81100" palette="8"/>
+        <Effect ref="22" name="Pictures" id="7" startTime="81100" endTime="84900" palette="8"/>
+        <Effect ref="23" name="Text" id="8" startTime="85700" endTime="89800" palette="5"/>
+        <Effect ref="19" name="Text" id="9" startTime="134800" endTime="138350" palette="5"/>
+        <Effect ref="19" name="Text" id="10" startTime="138450" endTime="141800" palette="5"/>
+        <Effect ref="19" name="Text" id="11" startTime="148900" endTime="152150" palette="0"/>
+        <Effect ref="19" name="Text" id="12" startTime="152350" endTime="155700" palette="0"/>
+        <Effect ref="20" name="Ripple" id="13" startTime="159650" endTime="161350" palette="9"/>
+        <Effect ref="21" name="Pictures" id="14" startTime="161350" endTime="164450" palette="8"/>
+        <Effect ref="22" name="Pictures" id="15" startTime="164450" endTime="168250" palette="8"/>
+        <Effect ref="23" name="Text" id="16" startTime="169050" endTime="173150" palette="5"/>
       </EffectLayer>
       <EffectLayer/>
     </Element>
