@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.16.1</version>
+    <version>2022.23</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -428,7 +428,7 @@
       <EffectLayer>
         <Effect ref="6" name="Plasma" startTime="4500" endTime="8650" palette="14"/>
         <Effect ref="7" name="Ripple" id="1" startTime="8650" endTime="11750" palette="15"/>
-        <Effect ref="8" name="Pictures" id="2" startTime="11750" endTime="19000" palette="15"/>
+        <Effect ref="8" name="Pictures" selected="1" id="2" startTime="11750" endTime="19000" palette="15"/>
         <Effect ref="9" name="Pictures" id="3" startTime="20050" endTime="27800" palette="15"/>
         <Effect ref="10" name="Pictures" id="4" startTime="28350" endTime="36650" palette="15"/>
         <Effect ref="11" name="Pictures" id="5" startTime="37100" endTime="44350" palette="15"/>
@@ -452,6 +452,7 @@
         <Effect ref="15" name="Pictures" id="23" startTime="86200" endTime="86350" palette="5"/>
         <Effect ref="16" name="Pictures" id="24" startTime="86350" endTime="86650" palette="5"/>
       </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Arches-1 Outside">
       <EffectLayer>

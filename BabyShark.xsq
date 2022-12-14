@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2022.16.1</version>
+    <version>2022.23</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -451,6 +451,9 @@
         <Effect ref="16" name="Pictures" id="22" startTime="86050" endTime="86200" palette="5"/>
         <Effect ref="15" name="Pictures" id="23" startTime="86200" endTime="86350" palette="5"/>
         <Effect ref="16" name="Pictures" id="24" startTime="86350" endTime="86650" palette="5"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="17" name="Off" startTime="11750" endTime="64000" palette="15"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Arches-1 Outside">
