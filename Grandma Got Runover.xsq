@@ -694,7 +694,7 @@
     </Element>
     <Element type="model" name="Matrix-2">
       <EffectLayer>
-        <Effect ref="21" name="Pictures" selected="1" startTime="4200" endTime="6050" palette="10"/>
+        <Effect ref="21" name="Pictures" startTime="4200" endTime="6050" palette="10"/>
         <Effect ref="33" name="Text" id="1" startTime="52200" endTime="54050" palette="11"/>
       </EffectLayer>
       <EffectLayer>

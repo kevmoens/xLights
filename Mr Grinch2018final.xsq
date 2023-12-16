@@ -139,21 +139,20 @@
     <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Skips,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=12,E_SLIDER_Skips_BandSize=2,E_SLIDER_Skips_SkipSize=6,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=3,E_SLIDER_Twinkle_Steps=30,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=1,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=3,E_SLIDER_Twinkle_Steps=30,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=2,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Skips,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=12,E_SLIDER_Skips_BandSize=2,E_SLIDER_Skips_SkipSize=6,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
     <Effect>E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=whoville,E_CHOICE_Faces_TimingTrack=Lyrics,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\xLights\DownloadedFaces\WhovilleBlink.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Whoville,E_CHOICE_Faces_TimingTrack=Lyrics,E_TEXTCTRL_Faces_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=16,E_TEXTCTRL_Spirals_Movement=-3.0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Mirror_Wave=0,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Right to Left,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=900,E_SLIDER_Thickness_Percentage=5,E_SLIDER_Wave_Height=50,E_SLIDER_Wave_YOffset=0,E_TEXTCTRL_Wave_Speed=10,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Circles_Bounce=1,E_CHECKBOX_Circles_Bubbles=0,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=1,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=4,E_SLIDER_Circles_Size=5,E_SLIDER_Circles_Speed=7,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=10,E_SLIDER_Galaxy_End_Width=5,E_SLIDER_Galaxy_Revolutions=1440,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=1,E_SLIDER_Galaxy_Start_Width=5,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_Warp_Treatment_APPLYLAST=in,E_CHOICE_Warp_Type=circular swirl,E_SLIDER_Warp_Speed=20,E_SLIDER_Warp_X=50,E_SLIDER_Warp_Y=50,E_TEXTCTRL_Warp_Speed=20,E_TEXTCTRL_Warp_X=50,E_TEXTCTRL_Warp_Y=50,E_VALUECURVE_Warp_X=Active=TRUE|Id=ID_VALUECURVE_Warp_X|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,E_VALUECURVE_Warp_Y=Active=TRUE|Id=ID_VALUECURVE_Warp_Y|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,T_CHECKBOX_Canvas=1,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Whoville,E_CHOICE_Faces_TimingTrack=Lyrics,E_TEXTCTRL_Faces_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Warp_Treatment_APPLYLAST=in,E_CHOICE_Warp_Type=circular swirl,E_SLIDER_Warp_Speed=20,E_SLIDER_Warp_X=50,E_SLIDER_Warp_Y=50,E_TEXTCTRL1=The warp effect distorts the pixels in the layers below it. The Canvas option in Layer Blending must be enabled for it to work.,E_TEXTCTRL_Warp_Speed=20,E_TEXTCTRL_Warp_X=50,E_TEXTCTRL_Warp_Y=50,E_VALUECURVE_Warp_X=Active=TRUE|Id=ID_VALUECURVE_Warp_X|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,E_VALUECURVE_Warp_Y=Active=TRUE|Id=ID_VALUECURVE_Warp_Y|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,T_CHECKBOX_Canvas=1,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Mr Grinch\Violin small4vibrato.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Mr Grinch\Violin small3vibrato short.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Mr Grinch\Violin small3vibratolong.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Mr Grinch\Violin small3vibrato1off.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHOICE_Warp_Treatment_APPLYLAST=out,E_CHOICE_Warp_Type=circle reveal,E_SLIDER_Warp_X=50,E_SLIDER_Warp_Y=50,E_TEXTCTRL_Warp_X=50,E_TEXTCTRL_Warp_Y=50,E_VALUECURVE_Warp_X=Active=TRUE|Id=ID_VALUECURVE_Warp_X|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,E_VALUECURVE_Warp_Y=Active=TRUE|Id=ID_VALUECURVE_Warp_Y|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,T_CHECKBOX_Canvas=1,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Whoville,E_CHOICE_Faces_TimingTrack=Lyrics,E_TEXTCTRL_Faces_TransparentBlack=0,T_TEXTCTRL_Fadeout=1,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=whoville,E_CHOICE_Faces_TimingTrack=Lyrics,T_TEXTCTRL_Fadeout=1,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\xLights\Mr Grinch\Violin small 2 strings.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\xLights\Mr Grinch\Violin small.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=16,E_TEXTCTRL_Spirals_Movement=3.0,X_Effect_Locked=True</Effect>
@@ -3060,7 +3059,7 @@
         <Effect ref="88" name="SingleStrand" id="11" startTime="103400" endTime="107850" palette="20"/>
         <Effect ref="89" name="SingleStrand" id="12" startTime="107850" endTime="112250" palette="21"/>
         <Effect ref="90" name="SingleStrand" id="13" startTime="112250" endTime="116700" palette="20"/>
-        <Effect ref="91" name="SingleStrand" id="14" startTime="116700" endTime="118950" palette="17"/>
+        <Effect ref="94" name="SingleStrand" id="14" startTime="116700" endTime="118950" palette="17"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Roof and uprights">
@@ -3074,9 +3073,9 @@
     </Element>
     <Element type="model" name="Tree">
       <EffectLayer>
-        <Effect ref="94" name="Faces" startTime="26650" endTime="34700" palette="0"/>
-        <Effect ref="95" name="Pictures" id="1" startTime="34700" endTime="35250" palette="0"/>
-        <Effect ref="96" name="Faces" id="2" startTime="35250" endTime="51400" palette="0"/>
+        <Effect ref="95" name="Faces" startTime="26650" endTime="34700" palette="0"/>
+        <Effect ref="96" name="Pictures" id="1" startTime="34700" endTime="35250" palette="0"/>
+        <Effect ref="95" name="Faces" id="2" startTime="35250" endTime="51400" palette="0"/>
         <Effect ref="97" name="Spirals" id="3" startTime="51400" endTime="54700" palette="4"/>
         <Effect ref="98" name="Wave" id="4" startTime="54700" endTime="55750" palette="22"/>
         <Effect ref="97" name="Spirals" id="5" startTime="55750" endTime="59150" palette="4"/>
@@ -3084,13 +3083,13 @@
         <Effect ref="99" name="Circles" id="7" startTime="60250" endTime="62450" palette="23"/>
         <Effect ref="100" name="Galaxy" id="8" startTime="62500" endTime="63050" palette="23"/>
         <Effect ref="101" name="Warp" id="9" startTime="63350" endTime="64400" palette="0"/>
-        <Effect ref="96" name="Faces" id="10" startTime="64400" endTime="67850" palette="0"/>
-        <Effect ref="95" name="Pictures" id="11" startTime="67850" endTime="68200" palette="0"/>
-        <Effect ref="102" name="Faces" id="12" startTime="68200" endTime="73000" palette="0"/>
-        <Effect ref="95" name="Pictures" id="13" startTime="73000" endTime="73350" palette="0"/>
-        <Effect ref="96" name="Faces" id="14" startTime="73350" endTime="79200" palette="0"/>
-        <Effect ref="95" name="Pictures" id="15" startTime="79200" endTime="79400" palette="0"/>
-        <Effect ref="102" name="Faces" id="16" startTime="79400" endTime="80300" palette="0"/>
+        <Effect ref="95" name="Faces" id="10" startTime="64400" endTime="67850" palette="0"/>
+        <Effect ref="96" name="Pictures" id="11" startTime="67850" endTime="68200" palette="0"/>
+        <Effect ref="95" name="Faces" id="12" startTime="68200" endTime="73000" palette="0"/>
+        <Effect ref="96" name="Pictures" id="13" startTime="73000" endTime="73350" palette="0"/>
+        <Effect ref="95" name="Faces" id="14" startTime="73350" endTime="79200" palette="0"/>
+        <Effect ref="96" name="Pictures" id="15" startTime="79200" endTime="79400" palette="0"/>
+        <Effect ref="95" name="Faces" id="16" startTime="79400" endTime="80300" palette="0"/>
         <Effect ref="48" name="Pictures" id="17" startTime="82000" endTime="82300" palette="12"/>
         <Effect ref="47" name="Pictures" id="18" startTime="82300" endTime="82650" palette="12"/>
         <Effect ref="46" name="Pictures" id="19" startTime="82650" endTime="83300" palette="12"/>
@@ -3107,12 +3106,12 @@
         <Effect ref="46" name="Pictures" id="30" startTime="86750" endTime="87000" palette="12"/>
         <Effect ref="47" name="Pictures" id="31" startTime="87000" endTime="87400" palette="12"/>
         <Effect ref="46" name="Pictures" id="32" startTime="87400" endTime="87800" palette="12"/>
-        <Effect ref="103" name="Pictures" id="33" startTime="87800" endTime="88800" palette="12"/>
+        <Effect ref="102" name="Pictures" id="33" startTime="87800" endTime="88800" palette="12"/>
         <Effect ref="48" name="Pictures" id="34" startTime="88800" endTime="89200" palette="12"/>
         <Effect ref="47" name="Pictures" id="35" startTime="89200" endTime="89700" palette="12"/>
         <Effect ref="45" name="Pictures" id="36" startTime="89700" endTime="90600" palette="12"/>
-        <Effect ref="104" name="Pictures" id="37" startTime="90600" endTime="91250" palette="12"/>
-        <Effect ref="105" name="Pictures" id="38" startTime="91250" endTime="92450" palette="12"/>
+        <Effect ref="103" name="Pictures" id="37" startTime="90600" endTime="91250" palette="12"/>
+        <Effect ref="104" name="Pictures" id="38" startTime="91250" endTime="92450" palette="12"/>
         <Effect ref="48" name="Pictures" id="39" startTime="92450" endTime="92700" palette="12"/>
         <Effect ref="17" name="Pictures" id="40" startTime="92700" endTime="92850" palette="12"/>
         <Effect ref="48" name="Pictures" id="41" startTime="92850" endTime="93150" palette="12"/>
@@ -3139,37 +3138,37 @@
         <Effect ref="45" name="Pictures" id="62" startTime="100050" endTime="100450" palette="12"/>
         <Effect ref="46" name="Pictures" id="63" startTime="100450" endTime="101150" palette="12"/>
         <Effect ref="50" name="Pictures" id="64" startTime="101150" endTime="101500" palette="12"/>
-        <Effect ref="106" name="Pictures" id="65" startTime="101500" endTime="101800" palette="12"/>
-        <Effect ref="106" name="Pictures" id="66" startTime="101800" endTime="102100" palette="12"/>
+        <Effect ref="105" name="Pictures" id="65" startTime="101500" endTime="101800" palette="12"/>
+        <Effect ref="105" name="Pictures" id="66" startTime="101800" endTime="102100" palette="12"/>
         <Effect ref="50" name="Pictures" id="67" startTime="102100" endTime="102300" palette="12"/>
-        <Effect ref="107" name="Warp" id="68" startTime="102550" endTime="102850" palette="12"/>
-        <Effect ref="102" name="Faces" id="69" startTime="102850" endTime="106750" palette="0"/>
-        <Effect ref="95" name="Pictures" id="70" startTime="106750" endTime="107100" palette="0"/>
-        <Effect ref="102" name="Faces" id="71" startTime="107100" endTime="111850" palette="0"/>
-        <Effect ref="96" name="Faces" id="72" startTime="111850" endTime="117900" palette="0"/>
-        <Effect ref="95" name="Pictures" id="73" startTime="117900" endTime="118250" palette="0"/>
-        <Effect ref="96" name="Faces" id="74" startTime="118250" endTime="128050" palette="0"/>
-        <Effect ref="95" name="Pictures" id="75" startTime="128050" endTime="128450" palette="0"/>
-        <Effect ref="96" name="Faces" id="76" startTime="128450" endTime="147200" palette="0"/>
-        <Effect ref="95" name="Pictures" id="77" startTime="147200" endTime="147550" palette="0"/>
-        <Effect ref="96" name="Faces" id="78" startTime="147550" endTime="155600" palette="0"/>
-        <Effect ref="95" name="Pictures" id="79" startTime="155600" endTime="155950" palette="0"/>
-        <Effect ref="96" name="Faces" id="80" startTime="155950" endTime="160950" palette="0"/>
-        <Effect ref="95" name="Pictures" id="81" startTime="160950" endTime="161050" palette="0"/>
-        <Effect ref="95" name="Pictures" id="82" startTime="161050" endTime="161200" palette="0"/>
-        <Effect ref="95" name="Pictures" id="83" startTime="161200" endTime="161400" palette="0"/>
-        <Effect ref="108" name="Faces" id="84" startTime="161400" endTime="163400" palette="0"/>
-        <Effect ref="109" name="Pictures" id="85" startTime="163400" endTime="163650" palette="0"/>
-        <Effect ref="110" name="Pictures" id="86" startTime="163650" endTime="163750" palette="0"/>
-        <Effect ref="109" name="Pictures" id="87" startTime="163750" endTime="164050" palette="0"/>
+        <Effect ref="106" name="Warp" id="68" startTime="102550" endTime="102850" palette="12"/>
+        <Effect ref="95" name="Faces" id="69" startTime="102850" endTime="106750" palette="0"/>
+        <Effect ref="96" name="Pictures" id="70" startTime="106750" endTime="107100" palette="0"/>
+        <Effect ref="95" name="Faces" id="71" startTime="107100" endTime="111850" palette="0"/>
+        <Effect ref="95" name="Faces" id="72" startTime="111850" endTime="117900" palette="0"/>
+        <Effect ref="96" name="Pictures" id="73" startTime="117900" endTime="118250" palette="0"/>
+        <Effect ref="95" name="Faces" id="74" startTime="118250" endTime="128050" palette="0"/>
+        <Effect ref="96" name="Pictures" id="75" startTime="128050" endTime="128450" palette="0"/>
+        <Effect ref="95" name="Faces" id="76" startTime="128450" endTime="147200" palette="0"/>
+        <Effect ref="96" name="Pictures" id="77" startTime="147200" endTime="147550" palette="0"/>
+        <Effect ref="95" name="Faces" id="78" startTime="147550" endTime="155600" palette="0"/>
+        <Effect ref="96" name="Pictures" id="79" startTime="155600" endTime="155950" palette="0"/>
+        <Effect ref="95" name="Faces" id="80" startTime="155950" endTime="160950" palette="0"/>
+        <Effect ref="96" name="Pictures" id="81" startTime="160950" endTime="161050" palette="0"/>
+        <Effect ref="96" name="Pictures" id="82" startTime="161050" endTime="161200" palette="0"/>
+        <Effect ref="96" name="Pictures" id="83" startTime="161200" endTime="161400" palette="0"/>
+        <Effect ref="107" name="Faces" id="84" startTime="161400" endTime="163400" palette="0"/>
+        <Effect ref="108" name="Pictures" id="85" startTime="163400" endTime="163650" palette="0"/>
+        <Effect ref="109" name="Pictures" id="86" startTime="163650" endTime="163750" palette="0"/>
+        <Effect ref="108" name="Pictures" id="87" startTime="163750" endTime="164050" palette="0"/>
         <Effect ref="53" name="Warp" id="88" startTime="164550" endTime="165050" palette="0"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="111" name="Spirals" startTime="51400" endTime="54700" palette="0"/>
-        <Effect ref="111" name="Spirals" id="1" startTime="55850" endTime="59150" palette="0"/>
-        <Effect ref="96" name="Faces" id="2" startTime="63350" endTime="64400" palette="0"/>
+        <Effect ref="110" name="Spirals" startTime="51400" endTime="54700" palette="0"/>
+        <Effect ref="110" name="Spirals" id="1" startTime="55850" endTime="59150" palette="0"/>
+        <Effect ref="95" name="Faces" id="2" startTime="63350" endTime="64400" palette="0"/>
         <Effect ref="17" name="Pictures" id="3" startTime="102350" endTime="102850" palette="12"/>
-        <Effect ref="110" name="Pictures" id="4" startTime="164050" endTime="165050" palette="0"/>
+        <Effect ref="109" name="Pictures" id="4" startTime="164050" endTime="165050" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="end of house">

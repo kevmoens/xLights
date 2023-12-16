@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
+  <head>
+    <version>2023.19</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\xLights\Pac Man Sequence.wav</mediaFile>
+    <sequenceDuration>29.782</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesXC=37,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=3,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=37,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1 ,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=80,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1.6,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-100,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=48,E_SLIDER_PicturesYC=15,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=.5,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=65,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=65,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1.5,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=-2,E_SLIDER_PicturesYC=15,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Left.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=63,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=.6,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\pac-man-dying.gif,E_SLIDER_PicturesXC=15,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=10,E_SLIDER_Pictures_StartScale=10,E_TEXTCTRL_Pictures_FrameRateAdj=1,E_TEXTCTRL_Pictures_Speed=4,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\pac-man left.gif,E_SLIDER_PicturesEndXC=70,E_SLIDER_PicturesEndYC=10,E_SLIDER_PicturesXC=-80,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=70,E_SLIDER_Pictures_StartScale=70,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1.2,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\pac-man left.gif,E_SLIDER_PicturesEndXC=70,E_SLIDER_PicturesEndYC=10,E_SLIDER_PicturesXC=-50,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=70,E_SLIDER_Pictures_StartScale=70,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1.1,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Blue Ghost Running.gif,E_SLIDER_PicturesEndXC=-100,E_SLIDER_PicturesEndYC=5,E_SLIDER_PicturesXC=59,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=110,E_SLIDER_Pictures_StartScale=110,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=.5,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True,X_Effect_RenderDisabled=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Blue Ghost Running.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=5,E_SLIDER_PicturesXC=65,E_SLIDER_PicturesYC=20,E_SLIDER_Pictures_EndScale=110,E_SLIDER_Pictures_StartScale=110,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Blue Ghost Running.gif,E_SLIDER_PicturesEndXC=70,E_SLIDER_PicturesEndYC=5,E_SLIDER_PicturesXC=-65,E_SLIDER_PicturesYC=5,E_SLIDER_Pictures_EndScale=110,E_SLIDER_Pictures_StartScale=110,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=.8,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pac Man Blue Ghost Running.gif,E_SLIDER_PicturesEndXC=-70,E_SLIDER_PicturesEndYC=5,E_SLIDER_PicturesXC=65,E_SLIDER_PicturesYC=5,E_SLIDER_Pictures_EndScale=110,E_SLIDER_Pictures_StartScale=110,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=1.3,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\pac-man left.gif,E_SLIDER_PicturesEndXC=70,E_SLIDER_PicturesEndYC=10,E_SLIDER_PicturesXC=-24,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=70,E_SLIDER_Pictures_StartScale=70,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=.8,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\pac-man left.gif,E_SLIDER_PicturesEndXC=70,E_SLIDER_PicturesEndYC=10,E_SLIDER_PicturesXC=-74,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=70,E_SLIDER_Pictures_StartScale=70,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=.5,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=3,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=-18,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=3 ,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=-45,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=45,E_SLIDER_PicturesYC=1,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=15,E_SLIDER_PicturesYC=12,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=11,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=-24,E_SLIDER_PicturesYC=8,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=3 ,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=27,E_SLIDER_PicturesYC=17,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=15,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=12,E_SLIDER_Pictures_EndScale=200,E_SLIDER_Pictures_StartScale=200,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=3 ,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Video Game Images\Pellet.png,E_SLIDER_PicturesXC=-22,E_SLIDER_PicturesYC=12,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=.5,E_TEXTCTRL_Pictures_Speed=4.9,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'arial black' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=30,E_TEXTCTRL_Text=STAY,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadeout=.25</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'arial narrow' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-30,E_TEXTCTRL_Text=TUNED,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadeout=.25</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Horizontals" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof and uprights" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixes" visible="1"/>
+    <Element collapsed="0" type="model" name="Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTrees" visible="1"/>
+    <Element collapsed="0" type="model" name="gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniStar4" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTree4" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniStar3" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTree3" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniStar1" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniStar2" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTree2" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTree1" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix3" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="gutter 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="end of house" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="0" name="Pictures" startTime="0" endTime="4350" palette="0"/>
+        <Effect ref="1" name="Pictures" id="1" startTime="4350" endTime="6050" palette="0"/>
+        <Effect ref="2" name="Pictures" id="2" startTime="6050" endTime="10150" palette="0"/>
+        <Effect ref="3" name="Pictures" id="3" startTime="10150" endTime="11100" palette="0"/>
+        <Effect ref="4" name="Pictures" id="4" startTime="12500" endTime="15100" palette="0"/>
+        <Effect ref="5" name="Pictures" id="5" startTime="16150" endTime="21000" palette="0"/>
+        <Effect ref="6" name="Pictures" id="6" startTime="21000" endTime="23000" palette="0"/>
+        <Effect ref="7" name="Pictures" id="7" startTime="23000" endTime="25600" palette="0"/>
+        <Effect ref="8" name="Pictures" id="8" startTime="25600" endTime="27100" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="9" name="Pictures" startTime="4350" endTime="7450" palette="0"/>
+        <Effect ref="10" name="Pictures" id="1" startTime="7450" endTime="10150" palette="0"/>
+        <Effect ref="11" name="Pictures" id="2" startTime="10150" endTime="11100" palette="0"/>
+        <Effect ref="12" name="Pictures" id="3" startTime="11100" endTime="15100" palette="0"/>
+        <Effect ref="13" name="Pictures" id="4" startTime="15350" endTime="15450" palette="0"/>
+        <Effect ref="14" name="Pictures" id="5" startTime="17450" endTime="21000" palette="0"/>
+        <Effect ref="15" name="Pictures" id="6" startTime="21000" endTime="23300" palette="0"/>
+        <Effect ref="16" name="Pictures" id="7" startTime="23450" endTime="25600" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="17" name="Pictures" startTime="0" endTime="4750" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="18" name="Pictures" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="19" name="Pictures" startTime="0" endTime="5850" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="20" name="Pictures" startTime="6650" endTime="6950" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="21" name="Pictures" startTime="6650" endTime="7200" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="22" name="Pictures" startTime="6650" endTime="7500" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="23" name="Pictures" startTime="6650" endTime="7850" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="24" name="Pictures" id="1" startTime="8950" endTime="9450" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="25" name="Pictures" startTime="8950" endTime="9700" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="26" name="Pictures" startTime="8950" endTime="9900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="27" name="Pictures" startTime="8950" endTime="10600" palette="0"/>
+      </EffectLayer>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Horizontals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof and uprights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrixes">
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTrees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniStar4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTree4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniStar3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTree3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniStar1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniStar2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTree2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTree1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="gutter 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="end of house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="28" name="Text" startTime="27100" endTime="29800" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="29" name="Text" selected="1" startTime="27100" endTime="29800" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Door">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
