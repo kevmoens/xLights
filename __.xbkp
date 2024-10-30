@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.19</version>
+    <version>2024.13</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -12,15 +12,15 @@
     <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>C:\xLights\Taylor Swift 25112023 Mash Up.mp3</mediaFile>
-    <sequenceDuration>252.585</sequenceDuration>
+    <mediaFile>C:\xLights\Pac Man Sequence.wav</mediaFile>
+    <sequenceDuration>29.782</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
   <ColorPalettes/>
   <EffectDB/>
   <DataLayers>
-    <DataLayer lor_params="1399418473" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="3211359" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
@@ -36,6 +36,8 @@
     <Element collapsed="0" type="model" name="Gutter" visible="1"/>
     <Element collapsed="0" type="model" name="MiniTrees" visible="1"/>
     <Element collapsed="0" type="model" name="gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
     <Element collapsed="0" type="model" name="MiniStar4" visible="1"/>
     <Element collapsed="0" type="model" name="MiniTree4" visible="1"/>
     <Element collapsed="0" type="model" name="MiniStar3" visible="1"/>
@@ -57,8 +59,6 @@
     <Element collapsed="0" type="model" name="end of house" visible="1"/>
     <Element collapsed="0" type="model" name="Tree" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -98,6 +98,12 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Door">
       <EffectLayer/>
     </Element>
     <Element type="model" name="MiniStar4">
@@ -161,12 +167,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Matrix-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Front Door">
       <EffectLayer/>
     </Element>
   </ElementEffects>
