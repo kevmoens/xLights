@@ -82,13 +82,13 @@
     <Effect>X_Effect_Locked=True</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_On_Cycles=8.0,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Vertical Per Model,E_CHOICE_VUMeter_TimingTrack=Beat Count,E_CHOICE_VUMeter_Type=Timing Event Timed Sweep,E_FILEPICKERCTRL_SVGFile=,E_SLIDER_VUMeter_Bars=24,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Jack Skelton,E_CHOICE_Faces_TimingTrack=Vocals,T_TEXTCTRL_Fadeout=2.00,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Monster,E_CHOICE_Faces_TimingTrack=Vocals,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=2.00,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beat Count,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_FILEPICKERCTRL_SVGFile=,E_SLIDER_VUMeter_Bars=6,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=15,E_SLIDER_Shockwave_End_Width=60,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=0,X_Effect_Locked=True</Effect>
     <Effect>E_0FILEPICKERCTRL_IFS=C:\xLights\CrazyTrain\Shaders\Fly Through.fs,E_SLIDER_SHADERXYZZY_c0=0,E_SLIDER_SHADERXYZZY_c1=0,E_SLIDER_SHADERXYZZY_c2=0,E_SLIDER_SHADERXYZZY_j=50,E_SLIDER_SHADERXYZZY_k=50,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
     <Effect>E_0FILEPICKERCTRL_IFS=C:\xLights\CrazyTrain\Shaders\Black Cherry Cosmos.fs,E_SLIDER_SHADERXYZZY_mouseX=0,E_SLIDER_SHADERXYZZY_mouseY=0,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_VALUECURVE_Shader_Zoom=Active=TRUE|Id=ID_VALUECURVE_Shader_Zoom|Type=Ramp|Min=-100.00|Max=100.00|P1=-34.00|P2=34.00|RV=TRUE|,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_0FILEPICKERCTRL_IFS=C:\xLights\CrazyTrain\Shaders\VV Logo.fs,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,E_VALUECURVE_SHADERXYZZY_splitPos=Active=TRUE|Id=ID_VALUECURVE_SHADERXYZZY_splitPos|Type=Sine|Min=0.00|Max=200.00|P2=200.00|P3=20.00|P4=100.00|TO=75|RV=TRUE|,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Monster,E_CHOICE_Faces_TimingTrack=Vocals,T_TEXTCTRL_Fadeout=2.00</Effect>
+    <Effect>E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Alvin,E_CHOICE_Faces_TimingTrack=Vocals,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=2.00</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="7733345" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -125,7 +125,7 @@
     <Element collapsed="0" type="model" name="Peak Left" visible="1"/>
     <Element collapsed="0" type="model" name="Peak Right" visible="1"/>
     <Element collapsed="0" type="model" name="end of house" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="1" type="model" name="Tree" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
     <Element collapsed="0" type="model" name="Front Door" visible="1"/>
@@ -437,72 +437,64 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrixes">
-      <EffectLayer>
-        <Effect ref="37" name="Faces" startTime="0" endTime="12950" palette="13"/>
-        <Effect ref="38" name="Faces" selected="1" id="1" startTime="38300" endTime="88400" palette="13"/>
-        <Effect ref="38" name="Faces" id="2" startTime="90100" endTime="95100" palette="13"/>
-        <Effect ref="38" name="Faces" id="3" startTime="97050" endTime="147800" palette="13"/>
-        <Effect ref="38" name="Faces" id="4" startTime="150800" endTime="169700" palette="13"/>
-        <Effect ref="38" name="Faces" id="5" startTime="212200" endTime="261750" palette="13"/>
-        <Effect ref="38" name="Faces" id="6" startTime="278100" endTime="287400" palette="13"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Gutter">
       <EffectLayer/>
     </Element>
     <Element type="model" name="MiniTrees">
       <EffectLayer>
-        <Effect ref="39" name="VU Meter" startTime="32400" endTime="67450" palette="18"/>
+        <Effect ref="37" name="VU Meter" startTime="32400" endTime="67450" palette="18"/>
         <Effect ref="34" name="On" id="1" startTime="67650" endTime="67900" palette="18"/>
         <Effect ref="34" name="On" id="2" startTime="68500" endTime="68750" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="3" startTime="68950" endTime="70050" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="3" startTime="68950" endTime="70050" palette="19"/>
         <Effect ref="34" name="On" id="4" startTime="70050" endTime="70500" palette="20"/>
         <Effect ref="34" name="On" id="5" startTime="71150" endTime="71350" palette="18"/>
         <Effect ref="34" name="On" id="6" startTime="72000" endTime="72200" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="7" startTime="72400" endTime="73500" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="7" startTime="72400" endTime="73500" palette="19"/>
         <Effect ref="34" name="On" id="8" startTime="73500" endTime="73950" palette="20"/>
         <Effect ref="34" name="On" id="9" startTime="85050" endTime="85250" palette="18"/>
         <Effect ref="34" name="On" id="10" startTime="85900" endTime="86100" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="11" startTime="86350" endTime="87000" palette="19"/>
-        <Effect ref="40" name="Shockwave" id="12" startTime="87200" endTime="87850" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="11" startTime="86350" endTime="87000" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="12" startTime="87200" endTime="87850" palette="19"/>
         <Effect ref="34" name="On" id="13" startTime="88550" endTime="88750" palette="18"/>
         <Effect ref="34" name="On" id="14" startTime="89400" endTime="89600" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="15" startTime="89850" endTime="90500" palette="19"/>
-        <Effect ref="40" name="Shockwave" id="16" startTime="90700" endTime="91350" palette="19"/>
-        <Effect ref="39" name="VU Meter" id="17" startTime="91750" endTime="126600" palette="18"/>
+        <Effect ref="38" name="Shockwave" id="15" startTime="89850" endTime="90500" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="16" startTime="90700" endTime="91350" palette="19"/>
+        <Effect ref="37" name="VU Meter" id="17" startTime="91750" endTime="126600" palette="18"/>
         <Effect ref="34" name="On" id="18" startTime="126850" endTime="127050" palette="18"/>
         <Effect ref="34" name="On" id="19" startTime="127700" endTime="127900" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="20" startTime="128100" endTime="129200" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="20" startTime="128100" endTime="129200" palette="19"/>
         <Effect ref="34" name="On" id="21" startTime="129200" endTime="129650" palette="20"/>
         <Effect ref="34" name="On" id="22" startTime="130300" endTime="130550" palette="18"/>
         <Effect ref="34" name="On" id="23" startTime="131150" endTime="131400" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="24" startTime="131600" endTime="132700" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="24" startTime="131600" endTime="132700" palette="19"/>
         <Effect ref="34" name="On" id="25" startTime="132700" endTime="133100" palette="20"/>
         <Effect ref="34" name="On" id="26" startTime="144200" endTime="144400" palette="18"/>
         <Effect ref="34" name="On" id="27" startTime="145050" endTime="145250" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="28" startTime="145500" endTime="146150" palette="19"/>
-        <Effect ref="40" name="Shockwave" id="29" startTime="146350" endTime="147000" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="28" startTime="145500" endTime="146150" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="29" startTime="146350" endTime="147000" palette="19"/>
         <Effect ref="34" name="On" id="30" startTime="147700" endTime="147900" palette="18"/>
         <Effect ref="34" name="On" id="31" startTime="148550" endTime="148750" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="32" startTime="149000" endTime="149650" palette="19"/>
-        <Effect ref="40" name="Shockwave" id="33" startTime="149850" endTime="150500" palette="19"/>
-        <Effect ref="39" name="VU Meter" id="34" startTime="206500" endTime="241000" palette="18"/>
+        <Effect ref="38" name="Shockwave" id="32" startTime="149000" endTime="149650" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="33" startTime="149850" endTime="150500" palette="19"/>
+        <Effect ref="37" name="VU Meter" id="34" startTime="206500" endTime="241000" palette="18"/>
         <Effect ref="34" name="On" id="35" startTime="241400" endTime="241650" palette="18"/>
         <Effect ref="34" name="On" id="36" startTime="242250" endTime="242500" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="37" startTime="242700" endTime="243800" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="37" startTime="242700" endTime="243800" palette="19"/>
         <Effect ref="34" name="On" id="38" startTime="243800" endTime="244450" palette="20"/>
         <Effect ref="34" name="On" id="39" startTime="244850" endTime="245100" palette="18"/>
         <Effect ref="34" name="On" id="40" startTime="245750" endTime="245950" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="41" startTime="246150" endTime="247250" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="41" startTime="246150" endTime="247250" palette="19"/>
         <Effect ref="34" name="On" id="42" startTime="247250" endTime="247700" palette="20"/>
         <Effect ref="34" name="On" id="43" startTime="258550" endTime="258750" palette="18"/>
         <Effect ref="34" name="On" id="44" startTime="259400" endTime="259600" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="45" startTime="259850" endTime="260500" palette="19"/>
-        <Effect ref="40" name="Shockwave" id="46" startTime="260700" endTime="261350" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="45" startTime="259850" endTime="260500" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="46" startTime="260700" endTime="261350" palette="19"/>
         <Effect ref="34" name="On" id="47" startTime="262050" endTime="262250" palette="18"/>
         <Effect ref="34" name="On" id="48" startTime="262900" endTime="263100" palette="18"/>
-        <Effect ref="40" name="Shockwave" id="49" startTime="263350" endTime="264000" palette="19"/>
-        <Effect ref="40" name="Shockwave" id="50" startTime="264200" endTime="264850" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="49" startTime="263350" endTime="264000" palette="19"/>
+        <Effect ref="38" name="Shockwave" id="50" startTime="264200" endTime="264850" palette="19"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="gutter">
@@ -567,18 +559,18 @@
     </Element>
     <Element type="model" name="Tree">
       <EffectLayer>
-        <Effect ref="41" name="Shader" startTime="32400" endTime="67450" palette="21"/>
-        <Effect ref="42" name="Shader" id="1" startTime="67450" endTime="74400" palette="22"/>
-        <Effect ref="43" name="Shader" id="2" startTime="74400" endTime="77850" palette="23"/>
-        <Effect ref="43" name="Shader" id="3" startTime="81350" endTime="84800" palette="23"/>
-        <Effect ref="41" name="Shader" id="4" startTime="91750" endTime="126600" palette="21"/>
-        <Effect ref="42" name="Shader" id="5" startTime="126600" endTime="133550" palette="22"/>
-        <Effect ref="43" name="Shader" id="6" startTime="133550" endTime="137050" palette="23"/>
-        <Effect ref="43" name="Shader" id="7" startTime="140500" endTime="143950" palette="23"/>
-        <Effect ref="41" name="Shader" id="8" startTime="206500" endTime="241000" palette="21"/>
-        <Effect ref="42" name="Shader" id="9" startTime="241000" endTime="247900" palette="22"/>
-        <Effect ref="43" name="Shader" id="10" startTime="247900" endTime="251400" palette="23"/>
-        <Effect ref="43" name="Shader" id="11" startTime="254850" endTime="258300" palette="23"/>
+        <Effect ref="39" name="Shader" startTime="32400" endTime="67450" palette="21"/>
+        <Effect ref="40" name="Shader" id="1" startTime="67450" endTime="74400" palette="22"/>
+        <Effect ref="41" name="Shader" id="2" startTime="74400" endTime="77850" palette="23"/>
+        <Effect ref="41" name="Shader" id="3" startTime="81350" endTime="84800" palette="23"/>
+        <Effect ref="39" name="Shader" id="4" startTime="91750" endTime="126600" palette="21"/>
+        <Effect ref="40" name="Shader" id="5" startTime="126600" endTime="133550" palette="22"/>
+        <Effect ref="41" name="Shader" id="6" startTime="133550" endTime="137050" palette="23"/>
+        <Effect ref="41" name="Shader" id="7" startTime="140500" endTime="143950" palette="23"/>
+        <Effect ref="39" name="Shader" id="9" startTime="206500" endTime="241000" palette="21"/>
+        <Effect ref="40" name="Shader" id="10" startTime="241000" endTime="247900" palette="22"/>
+        <Effect ref="41" name="Shader" id="11" startTime="247900" endTime="251400" palette="23"/>
+        <Effect ref="41" name="Shader" id="12" startTime="254850" endTime="258300" palette="23"/>
       </EffectLayer>
       <EffectLayer/>
       <EffectLayer/>
@@ -591,7 +583,15 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="42" name="Faces" startTime="0" endTime="12950" palette="13"/>
+        <Effect ref="43" name="Faces" id="1" startTime="38300" endTime="88400" palette="13"/>
+        <Effect ref="43" name="Faces" id="2" startTime="90100" endTime="95100" palette="13"/>
+        <Effect ref="43" name="Faces" id="3" startTime="97050" endTime="147800" palette="13"/>
+        <Effect ref="43" name="Faces" id="4" startTime="150800" endTime="169700" palette="13"/>
+        <Effect ref="43" name="Faces" id="5" startTime="212200" endTime="261750" palette="13"/>
+        <Effect ref="43" name="Faces" selected="1" id="6" startTime="278100" endTime="287400" palette="13"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Matrix-2">
       <EffectLayer/>
