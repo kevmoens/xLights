@@ -5,22 +5,22 @@
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
-    <song></song>
-    <artist></artist>
+    <song>Christmas Mashup 2016</song>
+    <artist>LalalaGirl</artist>
     <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>C:\xLights\Pac Man Sequence.wav</mediaFile>
-    <sequenceDuration>29.782</sequenceDuration>
+    <mediaFile>C:\xLights\LalalaGirl - Christmas Mashup 2016-short.mp3</mediaFile>
+    <sequenceDuration>153.199</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
   <ColorPalettes/>
   <EffectDB/>
   <DataLayers>
-    <DataLayer lor_params="3211359" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="6226002" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
